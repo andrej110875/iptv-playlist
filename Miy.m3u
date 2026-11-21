@@ -3,9 +3,8 @@
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/c7/e1/47/c7e14712f7078327e78e63b5b5de5ae9.jpg",== Обновлено: 20.11.2026 ==
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 
-https://drive.google.com/file/d/1KnqPgBp4nLvn2dfefCI_DxEoUoT7Gp7J/view?usp=sharing
-
-https://surl.li/evpvcj
+https://raw.githubusercontent.com/andrej110875/iptv-playlist/refs/heads/main/Miy.m3u
+https://surl.li/sbbnsi
 
 #EXTINF:-1 tvg-logo="https://www.elternguide.online/wp-content/uploads/2018/02/telegram_logo.png",https://t.me/+eCGv78AaptkzNTIy
 #EXTGRP:Інфо
@@ -63,36 +62,15 @@ https://filmtvgroup.hopto.org:8080/NovosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1Qi
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/a8/01/27a801da435a359ade8032eeb20e7fd3.jpg",Бровари Кіно TV
 #EXTGRP:Кіно
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/20/3d/32/203d328170aa559b7054b82ff475a511.jpg",Scripach TV
-#EXTGRP:Кіно
-https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 #EXTINF:21 tvg-logo="https://i.pinimg.com/736x/e4/ec/2c/e4ec2c5176b29afa1d9ba3a9b72abdf9.jpg",TVON ACTION
 #EXTGRP:Кіно
 http://188.208.197.173:2580/tvonfilm/video.m3u8?token=or1g1nall
-#EXTINF:-1 tvg-rec="7" timeshift="7",YES Movies Action
-#EXTGRP:Кіно
-http://stream.mcquack.net/380/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/0c/8a/85/0c8a850fb1b2656035a414be97959489.jpg",Остросюжетное HD
-#EXTGRP:Кіно
-http://stream.mcquack.net/214/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b8/af/14/b8af14803c94ffffce1432527ba5f05d.jpg",Блокбастер HD
-#EXTGRP:Кіно
-http://stream.mcquack.net/364/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/35/e5/7f/35e57f13ac85c1eaf4c6da6c34f46c81.jpg",Премиальное HD
-#EXTGRP:Кіно
-http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/18/9d/e4/189de428afa4cdb04d3ebd86bc170d62.jpg",Кино ТВ
 #EXTGRP:Кіно
 http://185.121.1.163:8083/KinoTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/18/9d/e4/189de428afa4cdb04d3ebd86bc170d62.jpg",Кино ТВ
-#EXTGRP:Кіно
-http://stream.mcquack.net/221/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/a3/df/0a/a3df0a32637753ed5aef90a706075528.jpg",Cinema HD
 #EXTGRP:Кіно
 http://85.117.61.84/cinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/a3/df/0a/a3df0a32637753ed5aef90a706075528.jpg",Cinema HD
-#EXTGRP:Кіно
-http://stream.mcquack.net/62/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/a3/df/0a/a3df0a32637753ed5aef90a706075528.jpg",Cinema HD
 #EXTGRP:Кіно
 http://85.117.61.97:8000/play/a01a/index.m3u8
@@ -121,12 +99,6 @@ http://178.134.1.158:8081/t24/index.m3u8
 #EXTGRP:Кіно
 https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv2
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/f0/d2/e9/f0d2e95942b8f50bf20c0523e7edc6dd.jpg",Hollywood HD
-#EXTGRP:Кіно
-http://stream.mcquack.net/268/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/72/7c/c3/727cc3c2bdf4d9d63ec1d9cbe064b00c.jpg",.Black
-#EXTGRP:Кіно
-http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/72/7c/c3/727cc3c2bdf4d9d63ec1d9cbe064b00c.jpg",.Black
 #EXTGRP:Кіно
 http://85.117.61.84/black/index.m3u8
@@ -136,9 +108,6 @@ http://85.117.37.43/red/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/63/e5/f4/63e5f4183f1945bf31d3fe385ab8c81f.jpg",.red
 #EXTGRP:Кіно
 http://176.100.46.245:90/red/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/63/e5/f4/63e5f4183f1945bf31d3fe385ab8c81f.jpg",.red
-#EXTGRP:Кіно
-http://stream.mcquack.net/69/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/8c/52/35/8c5235c0a739f6fd442539798bc24c73.jpg",.Sci-Fi
 #EXTGRP:Кіно
 http://85.117.61.97:8000/play/a04p/index.m3u8
@@ -163,48 +132,24 @@ http://178.134.1.158:8081/TVXXI/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/7b/ed/3e/7bed3e61ec08ce608cb7c66fd032690c.jpg",ТВ-21M
 #EXTGRP:Кіно
 http://85.117.61.84/tv21/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ba/b4/08/bab4089353e3f5961196fe870e105c24.jpg",Kinowood
-#EXTGRP:Кіно
-http://stream.mcquack.net/446/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/81/6e/00/816e0097f7885b0720c0b6b15d5a819a.jpg",Kino kanal
-#EXTGRP:Кіно
-http://stream.mcquack.net/470/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/c6/80/2c/c6802c9624e34b38d8efa0b92b2a93ec.jpg",Shot TV
 #EXTGRP:Кіно
 http://178.134.1.158:8081/shottv/video.m3u8?token=test
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/ed/26/a5/ed26a56e78a19cb16669f17cd246f717.jpg",KTV
 #EXTGRP:Кіно
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/04/c0/2e/04c02e68d76fcfd8a491789dec546ba5.jpg",Хит HD
-#EXTGRP:Кіно
-http://stream.mcquack.net/363/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1d/86/8b/1d868b0688df5ede02c68f356a923beb.jpg" tvg-rec="7" timeshift="7",Continent E
-#EXTGRP:Кіно
-http://stream.mcquack.net/449/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/1b/9a/09/1b9a0979d835a2a84d659d4b18558fe2.jpg",ТСВ
 #EXTGRP:Кіно
 https://tsv.md/stream/hls/tsv-online/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/22/39/2b/22392bd581fb66872ff6eecbb6da5cbf.jpg",KinoLiving HD
-#EXTGRP:Кіно
-http://stream.mcquack.net/445/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/36/b1/f0/36b1f06d933ff34483f1baec193a4632.jpg",4ever Cinema
 #EXTGRP:Кіно
 http://195.234.6.84:8002/play/040
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/36/b1/f0/36b1f06d933ff34483f1baec193a4632.jpg",4ever Cinema
-#EXTGRP:Кіно
-http://stream.mcquack.net/258/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/36/b1/f0/36b1f06d933ff34483f1baec193a4632.jpg",4ever Cinema
 #EXTGRP:Кіно
 http://176.107.190.233:8000/play/a00p
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/36/b1/f0/36b1f06d933ff34483f1baec193a4632.jpg",4ever Drama
 #EXTGRP:Кіно
 http://195.234.6.84:8002/play/918
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/36/b1/f0/36b1f06d933ff34483f1baec193a4632.jpg",4ever Drama
-#EXTGRP:Кіно
-http://stream.mcquack.net/260/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/36/b1/f0/36b1f06d933ff34483f1baec193a4632.jpg",4ever Theater
-#EXTGRP:Кіно
-http://stream.mcquack.net/259/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/36/b1/f0/36b1f06d933ff34483f1baec193a4632.jpg",4ever Theater
 #EXTGRP:Кіно
 http://195.234.6.84:8002/play/919
@@ -215,12 +160,6 @@ https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/81/6e/00/816e0097f7885b0720c0b6b15d5a819a.jpg",FilmOFF
 #EXTGRP:Кіно
 https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/7e/1a/1a/7e1a1a272fcf7de60f7329aabaeabd65.jpg",Fan HD
-#EXTGRP:Кіно
-http://stream.mcquack.net/420/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8a/7e/27/8a7e272bb6da52317615dd751832e327.jpg",Kinosweet
-#EXTGRP:Кіно
-http://stream.mcquack.net/447/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/2d/84/ca/2d84ca637bbf1cbaddf1ef4c69d5f39b.jpg",Fantasy
 #EXTGRP:Кіно
 http://xuxnqv6s.megogo.xyz/iptv/8ED7L5YXSGCCMS/10005/index.m3u8
@@ -246,9 +185,6 @@ http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1,Киномикс
 #EXTGRP:Кіно
 http://185.121.1.163:8083/Kinomiks/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/a6/7b/d1/a67bd16609c7a2ea3f8a2855c1c5579b.jpg",Кинопоказ HD
-#EXTGRP:Кіно
-http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1,Кинопремьера
 #EXTGRP:Кіно
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv2
@@ -258,9 +194,6 @@ http://91.205.196.7:8000/play/a02m
 #EXTINF:-1,Кинопремьера
 #EXTGRP:Кіно
 http://185.121.1.163:8083/Kinopremyera/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/62/5f/db/625fdbc19616fe984a92bb8983ccaf0b.jpg",Комедийное HD
-#EXTGRP:Кіно
-http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1,Кинокомедия
 #EXTGRP:Кіно
 https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv2
@@ -327,9 +260,6 @@ http://95.47.155.244:8001/play/a018
 #EXTINF:-1 tvg-shift=-4 tvg-logo="https://i.pinimg.com/1200x/5e/f9/d7/5ef9d735525ee0fc6880ca4ae31335e5.jpg",Мир HD
 #EXTGRP:Кіно
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c9/0e/27/c90e27860b6c045a9c89cc0c4e986696.jpg",Kinogrande
-#EXTGRP:Кіно
-http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c9/0e/27/c90e27860b6c045a9c89cc0c4e986696.jpg",Kinogrande
 #EXTGRP:Кіно
 http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/15007/index.m3u8
@@ -422,12 +352,6 @@ http://95.47.155.244:8001/play/a010
 #EXTINF:-1,RTVi
 #EXTGRP:Кіно
 https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ba/78/b5/ba78b5c56b9992e01009b5ca478e6db8.jpg",Kino 1
-#EXTGRP:Кіно
-http://stream.mcquack.net/395/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ba/78/b5/ba78b5c56b9992e01009b5ca478e6db8.jpg",Kino 2
-#EXTGRP:Кіно
-http://stream.mcquack.net/465/index.m3u8
 #EXTINF:-1,8 канал
 #EXTGRP:Кіно
 http://45.11.139.43:8555/8kanal/index.m3u8
@@ -451,9 +375,6 @@ https://yellow.garant.tv/glazov24/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/28/a9/07/28a90794539ce662b84a72ff4255100b.jpg",ТВ-7 Абакан
 #EXTGRP:Кіно
 http://95.47.155.244:8001/play/a023
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ce/9f/39/ce9f39b70d426f9b0f794001ece0aa94.jpg" tvg-rec="7" timeshift="7",КТК
-#EXTGRP:Кіно
-http://stream.mcquack.net/26/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ce/9f/39/ce9f39b70d426f9b0f794001ece0aa94.jpg",КТК
 #EXTGRP:Кіно
 https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv2
@@ -463,21 +384,12 @@ https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ce/9f/39/ce9f39b70d426f9b0f794001ece0aa94.jpg",КТК
 #EXTGRP:Кіно
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 timeshift="7",7 канал (Казахстан)
-#EXTGRP:Кіно
-http://stream.mcquack.net/27/index.m3u8
 #EXTINF:-1,7 канал (Казахстан)
 #EXTGRP:Кіно
 https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv2
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/a1/5e/17/a15e17703e558cac2d090356590fa2fb.jpg",НТК
-#EXTGRP:Кіно
-http://stream.mcquack.net/389/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a1/5e/17/a15e17703e558cac2d090356590fa2fb.jpg",НТК
 #EXTGRP:Кіно
 https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/86/f7/0c/86f70cf727e50498fabfbbdefc0b4700.jpg",31 канал (Казахстан)
-#EXTGRP:Кіно
-http://stream.mcquack.net/388/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/fe/90/8efe909781ae4dde15ae4b42f85d8dae.jpg",TV15
 #EXTGRP:Кіно
 http://213.109.64.248:8086/0.m3u8
@@ -507,9 +419,6 @@ https://autopilot.catcast.tv/content/38617/index.m3u8
 #EXTGRP:Кіно
 https://filmtvgroup.hopto.org:8080/Retro/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODM5NjI3MTksImV4cCI6MTc4NDA0OTExOSwic3ViIjoiQWRtaW4ifQ.TN3xd65tAd1Y1r2dVcvee1bSGjAXYXqH_pfmaUYsTmM
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/8e/1a/d9/8e1ad97c26a59c41097bde5a52a3cae0.jpg",Шокирующее HD
-#EXTGRP:Кіно
-http://stream.mcquack.net/75/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img/518.png",НСТ
 #EXTGRP:Кіно
 http://85.117.61.97:8000/play/a019/index.m3u8
@@ -535,24 +444,15 @@ https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/16/a5/5b/16a55b8b0bbd47141f2b909f37b6f5f0.jpg",START Air
 #EXTGRP:Кіно
 https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/16/a5/5b/16a55b8b0bbd47141f2b909f37b6f5f0.jpg",START Air
-#EXTGRP:Кіно
-http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1,Amedia 1
 #EXTGRP:Кіно
 https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2
-#EXTINF:-1,Amedia 1
-#EXTGRP:Кіно
-http://stream.mcquack.net/117/index.m3u8
 #EXTINF:-1,Amedia 1
 #EXTGRP:Кіно
 https://tva.in.ua/live/bcuaction-token=iptv.org.ua-key.m3u8
 #EXTINF:-1,Amedia 2
 #EXTGRP:Кіно
 http://85.117.61.84/amedia2/index.m3u8
-#EXTINF:-1,Amedia Hit
-#EXTGRP:Кіно
-http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1,Amedia Hit
 #EXTGRP:Кіно
 https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv2
@@ -562,34 +462,16 @@ https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv2
 #EXTINF:-1,Amedia Premium
 #EXTGRP:Кіно
 http://85.117.61.97:8000/play/a013/index.m3u8
-#EXTINF:-1,Amedia Premium
-#EXTGRP:Кіно
-http://stream.mcquack.net/151/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/33/b9/3e/33b93ea4e61effc64d39a331e910d6ae.jpg",Film.Ua Drama
 #EXTGRP:Кіно
 http://88.99.215.227/FilmUADrama/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/33/b9/3e/33b93ea4e61effc64d39a331e910d6ae.jpg",Film.Ua Drama
-#EXTGRP:Кіно
-http://stream.mcquack.net/273/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/33/b9/3e/33b93ea4e61effc64d39a331e910d6ae.jpg",Film.Ua Drama
 #EXTGRP:Кіно
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/33/b9/3e/33b93ea4e61effc64d39a331e910d6ae.jpg",Viasat Epic Drama
 #EXTGRP:Кіно
 http://195.189.60.253/118/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/04/f8/59/04f859efe44a79c7ac0c3a0c5b51363f.jpg",FX Life
-#EXTGRP:Кіно
-http://stream.mcquack.net/129/index.m3u8
-#EXTINF:-1,Fox
-#EXTGRP:Кіно
-http://stream.mcquack.net/182/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Fox
-#EXTGRP:Кіно
-http://stream.mcquack.net/182/index.m3u8
 
-#EXTINF:-1,Дорама
-#EXTGRP:Кіно
-http://stream.mcquack.net/412/index.m3u8
 #EXTINF:-1,Дорама
 #EXTGRP:Кіно
 http://109.248.236.51/dorama/video.m3u8
@@ -635,80 +517,6 @@ http://176.107.190.233:8000/play/a00m
 #EXTGRP:Кiнозали
 http://176.107.190.233:8000/play/a00n
 
-#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/349/index.m3u8
-#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan Top
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/350/index.m3u8
-#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",Cineman Катастрофы
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/471/index.m3u8
-#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan Melodrama
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/472/index.m3u8
-#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan Action
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/351/index.m3u8
-#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan Thriller
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/352/index.m3u8
-#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan Ужасы
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/355/index.m3u8
-#EXTINF:40 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan Комедия
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/356/index.m3u8
-#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",Cineman VHS
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/474/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",Cineman MiniSeries
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/122/index.m3u8
-#EXTINF:40 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",Cineman Лесник
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/115/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",Cineman Скорая помощь HD
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/475/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Rating
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/422/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Cinema
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/423/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Premiere
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/424/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Comedy
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/426/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Family
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/427/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh VHS
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/428/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Fantastic
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/429/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Series
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/430/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Horror
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/431/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Adventure
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/432/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Romantic
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/433/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Thriller
-#EXTGRP:Кiнозали
-http://stream.mcquack.net/434/index.m3u8
-
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозалы 1
 #EXTGRP:Кiнозали
 https://stream.ushba.tv/akamaiushba/ushba82/tracks-v1a1/mono.m3u8
@@ -716,19 +524,7 @@ https://stream.ushba.tv/akamaiushba/ushba82/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,2+2
 #EXTGRP:Українські
-http://stream.mcquack.net/173/index.m3u8
-#EXTINF:-1,2+2
-#EXTGRP:Українські
 http://195.234.6.84:8002/play/153
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/50/78/64/507864fd4c05616bf0bc9621b316571e.jpg",ICTV2
-#EXTGRP:Українські
-http://stream.mcquack.net/368/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/fa/ff/88/faff887a728fbf7460ec0f28d8bc5032.jpg",Новий канал
-#EXTGRP:Українські
-http://stream.mcquack.net/157/index.m3u8
-#EXTINF:-1 tvg-logo="",ТЕТ
-#EXTGRP:Українські
-http://stream.mcquack.net/338/index.m3u8
 #EXTINF:-1 tvg-name="FILM TV Кінозал" tvg-logo="https://i.pinimg.com/736x/84/d9/e3/84d9e38464bd9ab822630e0a38567f0c.jpg",FILM TV Кінозал
 #EXTGRP:Українські
 https://ottiptvfilmtvgroup.zapto.org:8080/FILMTVKinozal/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODgyNTE3MTEsImV4cCI6MTc4ODMzODExMSwic3ViIjoiQWRtaW4ifQ.U2O0Qs3aqhkbpw3vN7imXJVs9gUfEl_9KgexLQO2WS4
@@ -738,81 +534,33 @@ http://195.234.6.84:8002/play/001_1
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/79/06/cf/7906cfbc421446c1a940446868ee1ab4.jpg",1+1 Україна HD
 #EXTGRP:Українські
 http://m3u8.ott.blue/C5UK_1plus1SD/mpegts?token=94450098895765784220366841698509
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/79/06/cf/7906cfbc421446c1a940446868ee1ab4.jpg",1+1 Україна HD
-#EXTGRP:Українські
-http://stream.mcquack.net/219/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/78/e3/0a/78e30a0b12cfe2bfd56d48115d2365c2.jpg",1+1 international
 #EXTGRP:Українські
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 #EXTINF:0,УНІАН HD
 #EXTGRP:Українські
 http://195.234.6.84:8002/play/0291
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/23/b1/db/23b1dbf9cc0ad61275faa0f31328234b.jpg",Bolt HD Украина
-#EXTGRP:Українські
-http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/f2/92/cf/f292cfdb0220cb0aefa51bbc0c7d3a22.jpg",Ми - Україна+
 #EXTGRP:Українські
 http://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/f2/92/cf/f292cfdb0220cb0aefa51bbc0c7d3a22.jpg",Ми - Україна+
 #EXTGRP:Українські
 http://176.107.190.233:8000/play/a00d0
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/29/d9/69/29d969acb1018c94184fb3a76b4b17f7.jpg",СТБ HD
-#EXTGRP:Українські
-http://stream.mcquack.net/156/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/50/58/63/5058635f958baf32474ea2ba0311733a.jpg",Интер+
 #EXTGRP:Українські
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/50/58/63/5058635f958baf32474ea2ba0311733a.jpg",Интер+
-#EXTGRP:Українські
-http://stream.mcquack.net/345/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/a8/fd/14/a8fd14fa3dca908fd1d552b53131631d.jpg",Enter-фiльм
 #EXTGRP:Українські
 http://31.43.48.248:7000/ch54/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/a8/fd/14/a8fd14fa3dca908fd1d552b53131631d.jpg",Enter-фiльм
-#EXTGRP:Українські
-http://stream.mcquack.net/322/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/f9/1f/32/f91f3252f6aebb9583903a58bb1f7631.jpg",Твiй серiал
-#EXTGRP:Українські
-http://stream.mcquack.net/466/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/fc/d7/84/fcd784d73d25211411be634ce69a5667.jpg",НТН
-#EXTGRP:Українські
-http://stream.mcquack.net/326/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/fc/d7/84/fcd784d73d25211411be634ce69a5667.jpg",НТН
 #EXTGRP:Українські
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/59/67/e7596752e8968e70785b1bb509a1097e.jpg",ОЦЕ
-#EXTGRP:Українські
-http://stream.mcquack.net/329/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3f/82/0d/3f820d692afb27190112181a2c2b121e.jpg",k1-ua
-#EXTGRP:Українські
-http://stream.mcquack.net/270/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/5f/83/93/5f839376507861b829caf2e70618ac46.jpg",k2-ua
-#EXTGRP:Українські
-http://stream.mcquack.net/324/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/91/a1/65/91a16581c6b7d61dc4414f0090ef5965.jpg",Історичні серіали HD
 #EXTGRP:Українські
 http://176.107.190.233:8000/play/a00g
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/6c/a1/bc/6ca1bcf4f7b922f2e875ccf45fd8630b.jpg",Сімейні мелодрами+ HD
-#EXTGRP:Українські
-http://stream.mcquack.net/137/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Опер за викликом+ HD
-#EXTGRP:Українські
-http://stream.mcquack.net/50/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/23/d0/42/23d04293d12ebe92ee12edc3a944f5b5.jpg",Zoom
-#EXTGRP:Українські
-http://stream.mcquack.net/327/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cb/a2/a7/cba2a7fad4d895cb3b57e01f560afc6b.jpg",Dom
-#EXTGRP:Українські
-http://stream.mcquack.net/383/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/73/83/59/738359125efe10a319fb99347c0d3ff4.jpg",Бiгудi
-#EXTGRP:Українські
-http://stream.mcquack.net/340/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/c0/20/61/c02061a2075f5d06733e6d4d747c5af7.jpg",Sweet.TV
 #EXTGRP:Українські
 http://176.107.190.233:8000/play/a00500
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/8b/e6/9c8be676cdf7e6a6c2788b73be659c98.jpg",Суспільне Культура HD
-#EXTGRP:Українські
-http://stream.mcquack.net/435/index.m3u8
 #EXTINF:0,Закон ТВ
 #EXTGRP:Українські
 http://195.189.60.253/zakon_tv_hd/video.m3u8
@@ -846,9 +594,6 @@ http://176.107.190.233:8000/play/a009000
 #EXTINF:0,Панянка-селянка+ HD
 #EXTGRP:Українські
 http://176.107.190.233:8000/play/a00b000
-#EXTINF:-1,Панянка-селянка+ HD
-#EXTGRP:Українські
-http://stream.mcquack.net/134/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/aa/0d/40/aa0d40f16aa8df4229ab33234cd0981d.jpg",Орбіта
 #EXTGRP:Українські
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
@@ -867,31 +612,13 @@ https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/79/06/cf/7906cfbc421446c1a940446868ee1ab4.jpg",1+1 Марафон
 #EXTGRP:Українські
-http://stream.mcquack.net/172/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/79/06/cf/7906cfbc421446c1a940446868ee1ab4.jpg",1+1 Марафон
-#EXTGRP:Українські
 http://195.234.6.84:8002/play/903
-#EXTINF:-1,Интер
-#EXTGRP:Українські
-http://stream.mcquack.net/174/index.m3u8
-#EXTINF:0,ICTV
-#EXTGRP:Українські
-http://stream.mcquack.net/158/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/89/30/ff/8930ffae5c3f040c05187c8cb5885955.jpg",PTV
 #EXTGRP:Українські
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1,Рада
 #EXTGRP:Українські
 https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c9/ab/08/c9ab086f826cd658bdea48ab3b63da46.jpg",ATR HD
-#EXTGRP:Українські
-http://stream.mcquack.net/244/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/8b/e6/9c8be676cdf7e6a6c2788b73be659c98.jpg",Суспільне Київ HD
-#EXTGRP:Українські
-http://stream.mcquack.net/439/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/8b/e6/9c8be676cdf7e6a6c2788b73be659c98.jpg",Суспільне Крим HD
-#EXTGRP:Українські
-http://stream.mcquack.net/436/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cd/d7/ef/cdd7ef3822d173ce195813c77b1cb90b.jpg",Київ HD
 #EXTGRP:Українські
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
@@ -913,9 +640,6 @@ http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c7/31/82/c73182fba57d951d6187f6cd6b18c6b2.jpg",TV Rivne 1
 #EXTGRP:Українські
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cb/e8/a8/cbe8a8b64936c60c596d6073f4d8f37a.jpg",Еспресо TV HD
-#EXTGRP:Українські
-http://stream.mcquack.net/84/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cb/e8/a8/cbe8a8b64936c60c596d6073f4d8f37a.jpg",Еспресо TV HD
 #EXTGRP:Українські
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
@@ -969,24 +693,12 @@ http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:0,Cartoon Network BG
 #EXTGRP:Мультфільм
 http://78.108.244.134:8899/cn
-#EXTINF:-1 tvg-rec="7" timeshift="7",Nickelodeon
-#EXTGRP:Мультфільм
-http://stream.mcquack.net/443/index.m3u8
-#EXTINF:-1 tvg-rec="7" timeshift="7",Nick Jr
-#EXTGRP:Мультфільм
-http://stream.mcquack.net/220/index.m3u8
-#EXTINF:0,Cine Max Cartoons 90
-#EXTGRP:Мультфільм
-http://stream.mcquack.net/484/index.m3u8
 #EXTINF:0,Niki Kids
 #EXTGRP:Мультфільм
 http://195.234.6.84:8002/play/249
 #EXTINF:0,Niki Junior
 #EXTGRP:Мультфільм
 http://195.234.6.84:8002/play/260
-#EXTINF:-1 tvg-rec="7" timeshift="7",Cine Max
-#EXTGRP:Мультфільм
-http://stream.mcquack.net/476/index.m3u8
 #EXTINF:0,СоюзМультфильм
 #EXTGRP:Мультфільм
 http://194.26.229.213/souzmultfilm/index.m3u8
@@ -1011,9 +723,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:0,Чип и Дейл
 #EXTGRP:Мультфільм
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1,Мульт
-#EXTGRP:Мультфільм
-http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1,Мульт
 #EXTGRP:Мультфільм
 http://85.117.61.97:8000/play/a01r/index.m3u8
@@ -1054,34 +763,19 @@ http://85.117.61.84/tiji/index.m3u8
 
 #EXTINF:-1,Discovery
 #EXTGRP:Пізнавальні
-http://stream.mcquack.net/177/index.m3u8
-#EXTINF:-1,Discovery
-#EXTGRP:Пізнавальні
 http://91.205.196.7:8000/play/a023
-#EXTINF:-1,Investigation Discovery
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1,National Geographic
 #EXTGRP:Пізнавальні
 https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv2
 #EXTINF:-1,National Geographic
 #EXTGRP:Пізнавальні
 http://91.205.196.7:8000/play/a024
-#EXTINF:-1,National Geographic
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/116/index.m3u8
 #EXTINF:-1,Nat Geo Wild
 #EXTGRP:Пізнавальні
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv2
 #EXTINF:-1,Nat Geo Wild
 #EXTGRP:Пізнавальні
-http://stream.mcquack.net/149/index.m3u8
-#EXTINF:-1,Nat Geo Wild
-#EXTGRP:Пізнавальні
 http://91.205.196.7:8000/play/a02a
-#EXTINF:-1,Animal Planet
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/114/index.m3u8
 #EXTINF:-1,Animal Planet
 #EXTGRP:Пізнавальні
 http://91.205.196.7:8000/play/a029
@@ -1091,12 +785,6 @@ http://91.205.196.7:8000/play/a025
 #EXTINF:-1,Love Nature 4K
 #EXTGRP:Пізнавальні
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 tvg-logo="",Travel XP HD
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/451/index.m3u8
-#EXTINF:-1,The Explorers
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/450/index.m3u8
 #EXTINF:-1,Viasat Explore
 #EXTGRP:Пізнавальні
 https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv2
@@ -1112,76 +800,19 @@ http://85.117.37.43/vijuhistory/index.m3u8
 #EXTINF:-1,Viju nature
 #EXTGRP:Пізнавальні
 http://85.117.37.43/vijunature/index.m3u8
-#EXTINF:-1  tvg-id="tlc"   tvg-rec="7" timeshift="7",TLC
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/168/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/54/0f/d0/540fd00e1f2fed6a78766ac70e239823.jpg",RAZ 1
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/463/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/59/65/cd/5965cd994ffddcb21a9f26f79ac9d0d6.jpg",RAZ 2
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/464/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-rec="7" timeshift="7",Travel channel
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/231/index.m3u8
 #EXTINF:0,Global Life HD
 #EXTGRP:Пізнавальні
 http://176.107.190.233:8000/play/a00f07
 
-#EXTINF:-1 tvg-logo="" tvg-rec="7" timeshift="7",Инсайт ТВ
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/361/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-rec="7" timeshift="7",В мире животных
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/241/index.m3u8
-#EXTINF:-1 tvg-logo="",Фронт HD
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/489/index.m3u8
-#EXTINF:-1,Світ навиворіт+ HD
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/49/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Загублений світ+ HD
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/223/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Фауна
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/401/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,One Planet HD
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/448/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Зоосвіт
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/460/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Зоосвіт
 #EXTGRP:Пізнавальні
 http://176.107.190.233:8000/play/a00c
-#EXTINF:-1,Мега
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/325/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Машина часу HD
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/140/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,ЖВЛ+
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/139/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" tvg-rec="7" timeshift="7",Чемодан ТВ
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/399/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-rec="7" timeshift="7",Закон
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/406/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/05/61/5c/05615cbebd9a38c4cfee3530fb5065dd.jpg",Масон ТВ
 #EXTGRP:Пізнавальні
 http://195.189.60.253/mason_tv_hd/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/05/61/5c/05615cbebd9a38c4cfee3530fb5065dd.jpg" tvg-rec="7" timeshift="7",Масон ТВ
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/346/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xq6p9BZ.png",Dacha HD
 #EXTGRP:Пізнавальні
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-rec="7" timeshift="7",Наука
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/403/index.m3u8
 #EXTINF:0,Utravel HD
 #EXTGRP:Пізнавальні
 http://195.234.6.84:8002/play/072
@@ -1204,12 +835,6 @@ https://fs.uplink.kz/zhara/mono.m3u8?token=onlinetv2
 #EXTINF:-1,Моя планета
 #EXTGRP:Пізнавальні
 https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-logo="",Моя стихия
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/141/index.m3u8
-#EXTINF:-1,Приключения HD
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="",Наука
 #EXTGRP:Пізнавальні
 http://178.134.1.158:8081/nauka/index.m3u8
@@ -1240,9 +865,6 @@ http://91.205.196.7:8000/play/a028
 #EXTINF:0,Rybalka
 #EXTGRP:Пізнавальні
 https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/68/65/f3/6865f3e75448ec6ab9112b62adc68288.jpg",Трофей
-#EXTGRP:Пізнавальні
-http://stream.mcquack.net/357/index.m3u8
 #EXTINF:-1,АВТО ПЛЮС 
 #EXTGRP:Пізнавальні
 http://91.205.196.7:8000/play/a026
@@ -1251,18 +873,9 @@ http://91.205.196.7:8000/play/a026
 https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv2
 
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/fd/67/af/fd67af7368432f0810d8ed13c8364ec7.jpg",Dynamo Kyiv TV
-#EXTGRP:Спорт
-http://stream.mcquack.net/396/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/e3/a2/98/e3a2984ee5e2f8d12eb279aae7634b11.jpg",Setanta Sports 1 Lietuva
-#EXTGRP:Спорт
-http://stream.mcquack.net/234/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/e3/a2/98/e3a2984ee5e2f8d12eb279aae7634b11.jpg",Setanta Sports 1
 #EXTGRP:Спорт
 http://85.117.61.97:8000/play/a038/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/d8/fb/b6/d8fbb618478f6d210575163a6717603b.jpg",Setanta Sports 2 Lietuva
-#EXTGRP:Спорт
-http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/d8/fb/b6/d8fbb618478f6d210575163a6717603b.jpg",Setanta Sports 2 🇬🇪
 #EXTGRP:Спорт
 http://85.117.61.84/setanta2/index.m3u8
@@ -1337,27 +950,6 @@ http://91.205.196.7:8000/play/a02s
 #EXTINF:0,Матч! Арена
 #EXTGRP:Спорт
 http://85.117.61.97:8000/play/a04z/index.m3u8
-#EXTINF:0,Sport 1 Baltic
-#EXTGRP:Спорт
-http://stream.mcquack.net/461/index.m3u8
-#EXTINF:0,Sport 1
-#EXTGRP:Спорт
-http://stream.mcquack.net/391/index.m3u8
-#EXTINF:0,Sport 2
-#EXTGRP:Спорт
-http://stream.mcquack.net/392/index.m3u8
-#EXTINF:0,Sport 3
-#EXTGRP:Спорт
-http://stream.mcquack.net/393/index.m3u8
-#EXTINF:0,Sport 4
-#EXTGRP:Спорт
-http://stream.mcquack.net/394/index.m3u8
-#EXTINF:0,Sport 5
-#EXTGRP:Спорт
-http://stream.mcquack.net/212/index.m3u8
-#EXTINF:-1,Extreme Sports
-#EXTGRP:Спорт
-http://stream.mcquack.net/148/index.m3u8
 #EXTINF:-1,Etreme sports
 #EXTGRP:Спорт
 https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv2
@@ -1403,10 +995,6 @@ http://91.205.196.7:8000/play/a02w
 #EXTINF:-1,Eurosport 2 HD
 #EXTGRP:Спорт
 http://31.148.5.241/Eurosport_2_HD/index.m3u8
-
-#EXTINF:-1,TV3 Sport LT
-#EXTGRP:Спорт
-http://stream.mcquack.net/416/index.m3u8
 
 #EXTINF:-1,ONEPLAY1-kolo cz
 #EXTGRP:Спорт
@@ -1681,31 +1269,6 @@ http://iptv.prosto.tv:7000/ch348/video.m3u8
 http://iptv.prosto.tv:7000/ch350/video.m3u8
 
 
-#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Babes TV
-#EXTGRP:XXX
-http://stream.mcquack.net/55/index.m3u8
-#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Exxxotica
-#EXTGRP:XXX
-http://stream.mcquack.net/57/index.m3u8
-#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Frenchlover
-#EXTGRP:XXX
-http://stream.mcquack.net/54/index.m3u8
-#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Erox
-#EXTGRP:XXX
-http://stream.mcquack.net/58/index.m3u8
-#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Blue Hustler
-#EXTGRP:XXX
-http://stream.mcquack.net/280/index.m3u8
-#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Vivid Red
-#EXTGRP:XXX
-http://stream.mcquack.net/284/index.m3u8
-#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Barely Legal TV
-#EXTGRP:XXX
-http://stream.mcquack.net/289/index.m3u8
-#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Playboy TV
-#EXTGRP:XXX
-http://stream.mcquack.net/290/index.m3u8
-
 #EXTINF:-1,Brazzers TV Europa
 #EXTGRP:XXX
 http://193.239.186.231/BRAZZERS/index.m3u8
@@ -1715,31 +1278,6 @@ http://193.239.187.102/BRAZZERS/index.m3u8
 #EXTINF:-1,Porn Classic
 #EXTGRP:XXX
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-
-#EXTINF:-1 parent-code="1234",Babes TV
-#EXTGRP:XXX
-http://stream.mcquack.net/55/index.m3u8
-#EXTINF:-1 parent-code="1234",Exxxotica
-#EXTGRP:XXX
-http://stream.mcquack.net/57/index.m3u8
-#EXTINF:-1 parent-code="1234",Frenchlover
-#EXTGRP:XXX
-http://stream.mcquack.net/54/index.m3u8
-#EXTINF:-1 parent-code="1234",Erox
-#EXTGRP:XXX
-http://stream.mcquack.net/58/index.m3u8
-#EXTINF:-1 parent-code="1234",Blue Hustler
-#EXTGRP:XXX
-http://stream.mcquack.net/280/index.m3u8
-#EXTINF:-1 parent-code="1234",Vivid Red
-#EXTGRP:XXX
-http://stream.mcquack.net/284/index.m3u8
-#EXTINF:-1 parent-code="1234",Barely Legal TV
-#EXTGRP:XXX
-http://stream.mcquack.net/289/index.m3u8
-#EXTINF:-1 parent-code="1234",Playboy TV
-#EXTGRP:XXX
-http://stream.mcquack.net/290/index.m3u8
 
 #EXTINF:-1,Pornstar HD
 #EXTGRP:XXX
