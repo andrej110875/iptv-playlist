@@ -1,0 +1,2754 @@
+#EXTM3U deinterlace=1 network-cache="5000" url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml,http://filmtvgroup.site/uploads/epg.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/c7/e1/47/c7e14712f7078327e78e63b5b5de5ae9.jpg",== Обновлено: 20.11.2026 ==
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+
+https://drive.google.com/file/d/1KnqPgBp4nLvn2dfefCI_DxEoUoT7Gp7J/view?usp=sharing
+
+https://surl.li/evpvcj
+
+#EXTINF:-1 tvg-logo="https://www.elternguide.online/wp-content/uploads/2018/02/telegram_logo.png",https://t.me/+eCGv78AaptkzNTIy
+#EXTGRP:Інфо
+https://i.pinimg.com/1200x/9f/80/6d/9f806d79e44412afaf158251c167dc14.jpg
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/41/e0/8b/41e08b17c90d26b7376dcf749371c7d4.jpg",Приват 4149 6090 4377 2062
+#EXTGRP:Інфо
+https://i.pinimg.com/1200x/61/0b/1c/610b1c2e7634f17596b049c76ba07294.jpg
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cd/b3/49/cdb349f565cd469317fc51af5c454f5a.jpg",viju+ Megahit
+#EXTGRP:Кіно
+http://85.117.61.97:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/cc/7a/e9/cc7ae953f85f072a364e3357e1a8439c.jpg",viju+ Comedy
+#EXTGRP:Кіно
+http://85.117.61.97:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/67/a4/88/67a488a187558eaf9615cb86c12a44fd.jpg",viju TV1000
+#EXTGRP:Кіно
+http://85.117.37.43/vijuTV1000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/67/a4/88/67a488a187558eaf9615cb86c12a44fd.jpg",viju TV1000
+#EXTGRP:Кіно
+https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ac/00/43/ac0043fbf71aab403077f38bef6f7656.jpg",viju TV1000
+#EXTGRP:Кіно
+http://91.205.196.7:8000/play/a02j
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ac/00/43/ac0043fbf71aab403077f38bef6f7656.jpg",viju TV1000
+#EXTGRP:Кіно
+http://217.11.177.56/streams/media/tv1000_720x576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ac/00/43/ac0043fbf71aab403077f38bef6f7656.jpg",viju TV1000 Action
+#EXTGRP:Кіно
+https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ac/00/43/ac0043fbf71aab403077f38bef6f7656.jpg",viju TV1000 Action
+#EXTGRP:Кіно
+http://185.121.1.163:8083/TV1000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2e/07/ae/2e07aed15d0093a7efc9a6a6006bfef4.jpg",viju TV1000 Action
+#EXTGRP:Кіно
+http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ac/00/43/ac0043fbf71aab403077f38bef6f7656.jpg",viju TV1000 Русское
+#EXTGRP:Кіно
+https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/67/a4/88/67a488a187558eaf9615cb86c12a44fd.jpg",viju TV1000 Русское
+#EXTGRP:Кіно
+http://185.121.1.163:8083/TV1000RusskoeKino/index.m3u8
+
+#EXTINF:-1 tvg-id="FILM TV HD" tvg-logo="https://i.pinimg.com/736x/27/45/ba/2745bafc76a032638f861e9fe8c892ba.jpg",FILM TV HD
+#EXTGRP:Кіно
+https://ottiptvfilmtvgroup.zapto.org:8080/kino_tv/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODgyNTE3MTEsImV4cCI6MTc4ODMzODExMSwic3ViIjoiQWRtaW4ifQ.U2O0Qs3aqhkbpw3vN7imXJVs9gUfEl_9KgexLQO2WS4
+#EXTINF:-1 tvg-id="Новосілки ТБ" tvg-logo="https://i.pinimg.com/736x/1e/53/c3/1e53c39265d114a6503c72a89debef9a.jpg",Новосілки ТБ
+#EXTGRP:Кіно
+https://filmtvgroup.hopto.org:8080/NovosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODgyNTE3MTEsImV4cCI6MTc4ODMzODExMSwic3ViIjoiQWRtaW4ifQ.U2O0Qs3aqhkbpw3vN7imXJVs9gUfEl_9KgexLQO2WS4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/a8/01/27a801da435a359ade8032eeb20e7fd3.jpg",Бровари Кіно TV
+#EXTGRP:Кіно
+https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/20/3d/32/203d328170aa559b7054b82ff475a511.jpg",Scripach TV
+#EXTGRP:Кіно
+https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
+#EXTINF:21 tvg-logo="https://i.pinimg.com/736x/e4/ec/2c/e4ec2c5176b29afa1d9ba3a9b72abdf9.jpg",TVON ACTION
+#EXTGRP:Кіно
+http://188.208.197.173:2580/tvonfilm/video.m3u8?token=or1g1nall
+#EXTINF:-1 tvg-rec="7" timeshift="7",YES Movies Action
+#EXTGRP:Кіно
+http://stream.mcquack.net/380/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/0c/8a/85/0c8a850fb1b2656035a414be97959489.jpg",Остросюжетное HD
+#EXTGRP:Кіно
+http://stream.mcquack.net/214/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b8/af/14/b8af14803c94ffffce1432527ba5f05d.jpg",Блокбастер HD
+#EXTGRP:Кіно
+http://stream.mcquack.net/364/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/35/e5/7f/35e57f13ac85c1eaf4c6da6c34f46c81.jpg",Премиальное HD
+#EXTGRP:Кіно
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/18/9d/e4/189de428afa4cdb04d3ebd86bc170d62.jpg",Кино ТВ
+#EXTGRP:Кіно
+http://185.121.1.163:8083/KinoTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/18/9d/e4/189de428afa4cdb04d3ebd86bc170d62.jpg",Кино ТВ
+#EXTGRP:Кіно
+http://stream.mcquack.net/221/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/a3/df/0a/a3df0a32637753ed5aef90a706075528.jpg",Cinema HD
+#EXTGRP:Кіно
+http://85.117.61.84/cinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/a3/df/0a/a3df0a32637753ed5aef90a706075528.jpg",Cinema HD
+#EXTGRP:Кіно
+http://stream.mcquack.net/62/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/a3/df/0a/a3df0a32637753ed5aef90a706075528.jpg",Cinema HD
+#EXTGRP:Кіно
+http://85.117.61.97:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/91/a1/65/91a16581c6b7d61dc4414f0090ef5965.jpg",Cinema Family HD
+#EXTGRP:Кіно
+http://176.107.190.233:8000/play/a008000
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9e/6b/7e/9e6b7e30028f51dc5dfc3560daf7e5f4.jpg",Иллюзион +
+#EXTGRP:Кіно
+http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/2038/index.m3u8
+#EXTINF:-1 tvg-shift=3,Мужское кино
+#EXTGRP:Кіно
+https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Мужское кино
+#EXTGRP:Кіно
+http://91.205.196.7:8000/play/a02n
+#EXTINF:-1,Мужское кино
+#EXTGRP:Кіно
+http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/dd/a5/55/dda555cd2760fad8e4f952b3c2c50b73.jpg",Kino
+#EXTGRP:Кіно
+http://91.205.196.7:8000/play/a00z
+#EXTINF:-1,Т24
+#EXTGRP:Кіно
+http://178.134.1.158:8081/t24/index.m3u8
+#EXTINF:-1,Т24
+#EXTGRP:Кіно
+https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv2
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/f0/d2/e9/f0d2e95942b8f50bf20c0523e7edc6dd.jpg",Hollywood HD
+#EXTGRP:Кіно
+http://stream.mcquack.net/268/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/72/7c/c3/727cc3c2bdf4d9d63ec1d9cbe064b00c.jpg",.Black
+#EXTGRP:Кіно
+http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/72/7c/c3/727cc3c2bdf4d9d63ec1d9cbe064b00c.jpg",.Black
+#EXTGRP:Кіно
+http://85.117.61.84/black/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/63/e5/f4/63e5f4183f1945bf31d3fe385ab8c81f.jpg",.red
+#EXTGRP:Кіно
+http://85.117.37.43/red/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/63/e5/f4/63e5f4183f1945bf31d3fe385ab8c81f.jpg",.red
+#EXTGRP:Кіно
+http://176.100.46.245:90/red/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/63/e5/f4/63e5f4183f1945bf31d3fe385ab8c81f.jpg",.red
+#EXTGRP:Кіно
+http://stream.mcquack.net/69/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/8c/52/35/8c5235c0a739f6fd442539798bc24c73.jpg",.Sci-Fi
+#EXTGRP:Кіно
+http://85.117.61.97:8000/play/a04p/index.m3u8
+#EXTINF:0 tvg-logo="http://epg.one/img/352.png",Еврокино
+#EXTGRP:Кіно
+https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv2
+#EXTINF:0 tvg-logo="http://epg.one/img/352.png",Еврокино
+#EXTGRP:Кіно
+http://91.205.196.7:8000/play/a02o
+#EXTINF:0 tvg-logo="http://epg.one/img/352.png",Еврокино
+#EXTGRP:Кіно
+http://178.134.1.158:8081/eurokino/video.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/7b/ed/3e/7bed3e61ec08ce608cb7c66fd032690c.jpg",ТВ-21M
+#EXTGRP:Кіно
+https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv2
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/7b/ed/3e/7bed3e61ec08ce608cb7c66fd032690c.jpg",ТВ-21M
+#EXTGRP:Кіно
+http://85.117.61.97:8000/play/a018/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/7b/ed/3e/7bed3e61ec08ce608cb7c66fd032690c.jpg",ТВ-21M
+#EXTGRP:Кіно
+http://178.134.1.158:8081/TVXXI/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/7b/ed/3e/7bed3e61ec08ce608cb7c66fd032690c.jpg",ТВ-21M
+#EXTGRP:Кіно
+http://85.117.61.84/tv21/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ba/b4/08/bab4089353e3f5961196fe870e105c24.jpg",Kinowood
+#EXTGRP:Кіно
+http://stream.mcquack.net/446/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/81/6e/00/816e0097f7885b0720c0b6b15d5a819a.jpg",Kino kanal
+#EXTGRP:Кіно
+http://stream.mcquack.net/470/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/c6/80/2c/c6802c9624e34b38d8efa0b92b2a93ec.jpg",Shot TV
+#EXTGRP:Кіно
+http://178.134.1.158:8081/shottv/video.m3u8?token=test
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/ed/26/a5/ed26a56e78a19cb16669f17cd246f717.jpg",KTV
+#EXTGRP:Кіно
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/04/c0/2e/04c02e68d76fcfd8a491789dec546ba5.jpg",Хит HD
+#EXTGRP:Кіно
+http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1d/86/8b/1d868b0688df5ede02c68f356a923beb.jpg" tvg-rec="7" timeshift="7",Continent E
+#EXTGRP:Кіно
+http://stream.mcquack.net/449/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/1b/9a/09/1b9a0979d835a2a84d659d4b18558fe2.jpg",ТСВ
+#EXTGRP:Кіно
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/22/39/2b/22392bd581fb66872ff6eecbb6da5cbf.jpg",KinoLiving HD
+#EXTGRP:Кіно
+http://stream.mcquack.net/445/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/36/b1/f0/36b1f06d933ff34483f1baec193a4632.jpg",4ever Cinema
+#EXTGRP:Кіно
+http://195.234.6.84:8002/play/040
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/36/b1/f0/36b1f06d933ff34483f1baec193a4632.jpg",4ever Cinema
+#EXTGRP:Кіно
+http://stream.mcquack.net/258/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/36/b1/f0/36b1f06d933ff34483f1baec193a4632.jpg",4ever Cinema
+#EXTGRP:Кіно
+http://176.107.190.233:8000/play/a00p
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/36/b1/f0/36b1f06d933ff34483f1baec193a4632.jpg",4ever Drama
+#EXTGRP:Кіно
+http://195.234.6.84:8002/play/918
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/36/b1/f0/36b1f06d933ff34483f1baec193a4632.jpg",4ever Drama
+#EXTGRP:Кіно
+http://stream.mcquack.net/260/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/36/b1/f0/36b1f06d933ff34483f1baec193a4632.jpg",4ever Theater
+#EXTGRP:Кіно
+http://stream.mcquack.net/259/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/36/b1/f0/36b1f06d933ff34483f1baec193a4632.jpg",4ever Theater
+#EXTGRP:Кіно
+http://195.234.6.84:8002/play/919
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/81/6e/00/816e0097f7885b0720c0b6b15d5a819a.jpg",FilmON
+#EXTGRP:Кіно
+https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/81/6e/00/816e0097f7885b0720c0b6b15d5a819a.jpg",FilmOFF
+#EXTGRP:Кіно
+https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/7e/1a/1a/7e1a1a272fcf7de60f7329aabaeabd65.jpg",Fan HD
+#EXTGRP:Кіно
+http://stream.mcquack.net/420/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8a/7e/27/8a7e272bb6da52317615dd751832e327.jpg",Kinosweet
+#EXTGRP:Кіно
+http://stream.mcquack.net/447/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/2d/84/ca/2d84ca637bbf1cbaddf1ef4c69d5f39b.jpg",Fantasy
+#EXTGRP:Кіно
+http://xuxnqv6s.megogo.xyz/iptv/8ED7L5YXSGCCMS/10005/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/99/a3/14/99a314d59d97e6a72495cdb62420b1b3.jpg",Կինոման HD 
+#EXTGRP:Кіно
+http://91.205.196.7:8000/play/a02l
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/00/56/89/005689309834ee2a8f8bca6771004786.jpg",Киноман
+#EXTGRP:Кіно
+http://185.121.1.163:8083/Kinoman/index.m3u8
+#EXTINF:-1,Кинохит
+#EXTGRP:Кіно
+https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Киномикс
+#EXTGRP:Кіно
+https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv2
+#EXTINF:0,Киномикс
+#EXTGRP:Кіно
+http://91.205.196.7:8000/play/a02k
+#EXTINF:0,Киномикс
+#EXTGRP:Кіно
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1,Киномикс
+#EXTGRP:Кіно
+http://185.121.1.163:8083/Kinomiks/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/a6/7b/d1/a67bd16609c7a2ea3f8a2855c1c5579b.jpg",Кинопоказ HD
+#EXTGRP:Кіно
+http://stream.mcquack.net/64/index.m3u8
+#EXTINF:-1,Кинопремьера
+#EXTGRP:Кіно
+https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Кинопремьера
+#EXTGRP:Кіно
+http://91.205.196.7:8000/play/a02m
+#EXTINF:-1,Кинопремьера
+#EXTGRP:Кіно
+http://185.121.1.163:8083/Kinopremyera/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/62/5f/db/625fdbc19616fe984a92bb8983ccaf0b.jpg",Комедийное HD
+#EXTGRP:Кіно
+http://stream.mcquack.net/74/index.m3u8
+#EXTINF:-1,Кинокомедия
+#EXTGRP:Кіно
+https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv2
+#EXTINF:0,Киносемья
+#EXTGRP:Кіно
+http://185.121.1.163:8083/Kinosemya/index.m3u8
+#EXTINF:-1,Киносемья
+#EXTGRP:Кіно
+https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/64/22/e8/6422e8e584bcf80d5e5f5afdf6400d9c.jpg",Киносерия
+#EXTGRP:Кіно
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1,Киносвидание
+#EXTGRP:Кіно
+https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv2
+
+#EXTINF:-1,Наше новое кино
+#EXTGRP:Кіно
+https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv2
+#EXTINF:0,Наше новое кино
+#EXTGRP:Кіно
+http://185.121.1.163:8083/NasheNovoeKino/index.m3u8
+#EXTINF:-1,Наше Новое кино
+#EXTGRP:Кіно
+http://91.205.196.7:8000/play/a03k
+#EXTINF:-1,Родное кино
+#EXTGRP:Кіно
+https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Мир сериала
+#EXTGRP:Кіно
+http://85.117.61.84/mirseriala/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpRXL3jP/image-4.png",ЗОВ ТВ
+#EXTGRP:Кіно
+https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpRXL3jP/image-4.png",ЗОВ ТВ Black
+#EXTGRP:Кіно
+https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpRXL3jP/image-4.png",ЗОВ ТВ RED
+#EXTGRP:Кіно
+https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png",TvBoom-ViP
+#EXTGRP:Кіно
+https://kb.catcast.tv/content/49702/index.m3u8
+
+#EXTINF:-1 tvg-logo="",Русский Иллюзион
+#EXTGRP:Кіно
+https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Русский романтика
+#EXTGRP:Кіно
+http://85.117.61.84/rusroman/index.m3u8
+#EXTINF:-1 tvg-shift=-4 tvg-logo="https://i.pinimg.com/736x/92/07/5e/92075ebef35b22e237f79ed8b21b5b0b.jpg",НТВ
+#EXTGRP:Кіно
+http://95.47.155.244:8001/play/a004
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/92/07/5e/92075ebef35b22e237f79ed8b21b5b0b.jpg",НТВ
+#EXTGRP:Кіно
+http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/92/07/5e/92075ebef35b22e237f79ed8b21b5b0b.jpg",НТВ Хит
+#EXTGRP:Кіно
+http://178.134.1.158:8081/ntvhit/video.m3u8?token=test
+#EXTINF:-1 tvg-shift=-4 tvg-logo="https://i.pinimg.com/1200x/5e/f9/d7/5ef9d735525ee0fc6880ca4ae31335e5.jpg",Мир HD
+#EXTGRP:Кіно
+http://95.47.155.244:8001/play/a018
+#EXTINF:-1 tvg-shift=-4 tvg-logo="https://i.pinimg.com/1200x/5e/f9/d7/5ef9d735525ee0fc6880ca4ae31335e5.jpg",Мир HD
+#EXTGRP:Кіно
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c9/0e/27/c90e27860b6c045a9c89cc0c4e986696.jpg",Kinogrande
+#EXTGRP:Кіно
+http://stream.mcquack.net/456/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c9/0e/27/c90e27860b6c045a9c89cc0c4e986696.jpg",Kinogrande
+#EXTGRP:Кіно
+http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/15007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/98/bb/ff/98bbffb61a65039874849643f516da62.jpg",Дом кино премиум
+#EXTGRP:Кіно
+https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/98/bb/ff/98bbffb61a65039874849643f516da62.jpg",Дом кино премиум
+#EXTGRP:Кіно
+http://88.212.15.50/live/test_dom_kino_premium/playlist.m3u8
+#EXTINF:-1,Дом кино
+#EXTGRP:Кіно
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Дом кино
+#EXTGRP:Кіно
+http://185.121.1.163:8083/DomKino/index.m3u8
+#EXTINF:-1,Дом Кино
+#EXTGRP:Кіно
+https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1,СТС
+#EXTGRP:Кіно
+https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv2
+#EXTINF:-1,СТС
+#EXTGRP:Кіно
+http://95.47.155.244:8001/play/a013
+#EXTINF:-1,СТС
+#EXTGRP:Кіно
+http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:-1,СТС
+#EXTGRP:Кіно
+http://85.117.61.84/sts/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ea/82/2a/ea822a70fb353185ab64b5828bb209c1.jpg",СТС International
+#EXTGRP:Кіно
+http://178.134.1.158:8081/CTC/index.m3u8
+#EXTINF:-1 tvg-shift=4,ТВ3
+#EXTGRP:Кіно
+http://95.47.155.244:8001/play/a015
+#EXTINF:-1,ТВ3
+#EXTGRP:Кіно
+http://91.205.196.7:8000/play/a02p
+#EXTINF:-1,РЕН ТВ
+#EXTGRP:Кіно
+http://95.47.155.244:8001/play/a011
+#EXTINF:-1,РЕН ТВ
+#EXTGRP:Кіно
+http://31.131.141.195:8000/play/2010/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rentv-int.png",Рен ТВ International
+#EXTGRP:Кіно
+http://178.134.1.158:8081/RENTV/index.m3u8?token=tva.in.ua
+#EXTINF:-1,ТНТ
+#EXTGRP:Кіно
+http://95.47.155.244:8001/play/a019
+#EXTINF:-1,Домашний
+#EXTGRP:Кіно
+http://95.47.155.244:8001/play/a014
+#EXTINF:-1,Пятница
+#EXTGRP:Кіно
+http://85.117.61.84/piatnica/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/60/99/2e/60992e1f6f759ebf420bb7c1e51353ab.jpg",TVRUS
+#EXTGRP:Кіно
+http://213.91.179.28:8000/play/a082
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/a1/5e/17/a15e17703e558cac2d090356590fa2fb.jpg",TV RUS+
+#EXTGRP:Кіно
+http://83.228.75.166:8000/play/a0aq
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/a1/5e/17/a15e17703e558cac2d090356590fa2fb.jpg",TV RUS+
+#EXTGRP:Кіно
+http://85.117.61.97:8000/play/a079/index.m3u8
+#EXTINF:-1,Первый канал
+#EXTGRP:Кіно
+http://95.47.155.244:8001/play/a001
+#EXTINF:-1,Россия 1
+#EXTGRP:Кіно
+http://95.47.155.244:8001/play/a002
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KPXMa3U.png",5 канал (Россия) International
+#EXTGRP:Кіно
+http://178.134.1.158:8081/5channel/index.m3u8
+#EXTINF:-1 tvg-shift=7 tvg-logo="https://i.imgur.com/KPXMa3U.png",5 канал Россия
+#EXTGRP:Кіно
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KPXMa3U.png",5 канал (Россия) International
+#EXTGRP:Кіно
+http://ztf5jtil.zyntras.top/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/6040/index.m3u8
+#EXTINF:-1 tvg-shift=-2 tvg-logo="https://i.imgur.com/KPXMa3U.png",5 канал Россия
+#EXTGRP:Кіно
+http://95.47.155.244:8001/play/a005
+#EXTINF:-1,ТВЦ
+#EXTGRP:Кіно
+http://95.47.155.244:8001/play/a010
+#EXTINF:-1,RTVi
+#EXTGRP:Кіно
+https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ba/78/b5/ba78b5c56b9992e01009b5ca478e6db8.jpg",Kino 1
+#EXTGRP:Кіно
+http://stream.mcquack.net/395/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ba/78/b5/ba78b5c56b9992e01009b5ca478e6db8.jpg",Kino 2
+#EXTGRP:Кіно
+http://stream.mcquack.net/465/index.m3u8
+#EXTINF:-1,8 канал
+#EXTGRP:Кіно
+http://45.11.139.43:8555/8kanal/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYb88L3h/e64efc8dfee42c8756db5c2f9a736e5f.png",Romance
+#EXTGRP:Кіно
+http://91.205.196.7:8000/play/a03j
+#EXTINF:0,OTV (Estonia)
+#EXTGRP:Кіно
+http://88.212.7.14/live/otv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/bc/2c/d8/bc2cd844a251ef022cc3f04d9f721d06.jpg",Exclusiv TV
+#EXTGRP:Кіно
+rtmp://89.28.25.122/live/tnt_md
+#EXTINF:-1,Телекафе
+#EXTGRP:Кіно
+https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv2
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/18/88/68/188868425001e10efb6516cf2a611b52.jpg",Жизь глазова 
+#EXTGRP:Кіно
+https://yellow.garant.tv/glazov24/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/28/a9/07/28a90794539ce662b84a72ff4255100b.jpg",ТВ-7 Абакан
+#EXTGRP:Кіно
+http://95.47.155.244:8001/play/a023
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ce/9f/39/ce9f39b70d426f9b0f794001ece0aa94.jpg" tvg-rec="7" timeshift="7",КТК
+#EXTGRP:Кіно
+http://stream.mcquack.net/26/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ce/9f/39/ce9f39b70d426f9b0f794001ece0aa94.jpg",КТК
+#EXTGRP:Кіно
+https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ce/9f/39/ce9f39b70d426f9b0f794001ece0aa94.jpg",КТК
+#EXTGRP:Кіно
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ce/9f/39/ce9f39b70d426f9b0f794001ece0aa94.jpg",КТК
+#EXTGRP:Кіно
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 timeshift="7",7 канал (Казахстан)
+#EXTGRP:Кіно
+http://stream.mcquack.net/27/index.m3u8
+#EXTINF:-1,7 канал (Казахстан)
+#EXTGRP:Кіно
+https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv2
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/a1/5e/17/a15e17703e558cac2d090356590fa2fb.jpg",НТК
+#EXTGRP:Кіно
+http://stream.mcquack.net/389/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a1/5e/17/a15e17703e558cac2d090356590fa2fb.jpg",НТК
+#EXTGRP:Кіно
+https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/86/f7/0c/86f70cf727e50498fabfbbdefc0b4700.jpg",31 канал (Казахстан)
+#EXTGRP:Кіно
+http://stream.mcquack.net/388/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/fe/90/8efe909781ae4dde15ae4b42f85d8dae.jpg",TV15
+#EXTGRP:Кіно
+http://213.109.64.248:8086/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bc/30/87/bc30877f3ffe7088bdbe41cd2becba27.jpg",Мосфильм. Золотая Коллекция
+#EXTGRP:Кіно
+http://85.117.61.84/mosfilm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bc/30/87/bc30877f3ffe7088bdbe41cd2becba27.jpg",Мосфильм. Золотая Коллекция
+#EXTGRP:Кіно
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bc/30/87/bc30877f3ffe7088bdbe41cd2becba27.jpg",Мосфильм. Золотая Коллекция
+#EXTGRP:Кіно
+http://185.121.1.163:8083/Mosfilm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bc/30/87/bc30877f3ffe7088bdbe41cd2becba27.jpg",Мосфильм. Золотая Коллекция
+#EXTGRP:Кіно
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bc/30/87/bc30877f3ffe7088bdbe41cd2becba27.jpg",Мосфильм. Золотая Коллекция
+#EXTGRP:Кіно
+https://filmtvgroup.hopto.org:8080/mosfilm/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODM5NjI3MTksImV4cCI6MTc4NDA0OTExOSwic3ViIjoiQWRtaW4ifQ.TN3xd65tAd1Y1r2dVcvee1bSGjAXYXqH_pfmaUYsTmM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qjtL0TC/resize-64.png",Кино 1 International
+#EXTGRP:Кіно
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qjtL0TC/resize-64.png",Кино 1 International
+#EXTGRP:Кіно
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,Ретро
+#EXTGRP:Кіно
+https://filmtvgroup.hopto.org:8080/Retro/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODM5NjI3MTksImV4cCI6MTc4NDA0OTExOSwic3ViIjoiQWRtaW4ifQ.TN3xd65tAd1Y1r2dVcvee1bSGjAXYXqH_pfmaUYsTmM
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/8e/1a/d9/8e1ad97c26a59c41097bde5a52a3cae0.jpg",Шокирующее HD
+#EXTGRP:Кіно
+http://stream.mcquack.net/75/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/518.png",НСТ
+#EXTGRP:Кіно
+http://85.117.61.97:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/518.png",НСТ
+#EXTGRP:Кіно
+http://178.134.1.158:8081/nst/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/a9/c6/e7/a9c6e72bc8038c4fee16148af6df7d3c.jpg",Киноужас
+#EXTGRP:Кіно
+https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv2
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/21/0d/1c/210d1c7646add9b89e8fb57c1fd24c9e.jpg",Star Cinema
+#EXTGRP:Кіно
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/21/0d/1c/210d1c7646add9b89e8fb57c1fd24c9e.jpg",Star Cinema
+#EXTGRP:Кіно
+https://edge-fast.evrideo.tv/4e160454-ffee-4efc-beb6-a141b0343f51_0_HLS/manifest.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/a1/1f/d2/a11fd2f0f1263b9c97108cdb71172b6a.jpg",Star Family
+#EXTGRP:Кіно
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/18/fe/78/18fe788d0208455efde811dc8f7e8a75.jpg",Start World
+#EXTGRP:Кіно
+https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/16/a5/5b/16a55b8b0bbd47141f2b909f37b6f5f0.jpg",START Air
+#EXTGRP:Кіно
+https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/16/a5/5b/16a55b8b0bbd47141f2b909f37b6f5f0.jpg",START Air
+#EXTGRP:Кіно
+http://stream.mcquack.net/128/index.m3u8
+#EXTINF:-1,Amedia 1
+#EXTGRP:Кіно
+https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Amedia 1
+#EXTGRP:Кіно
+http://stream.mcquack.net/117/index.m3u8
+#EXTINF:-1,Amedia 1
+#EXTGRP:Кіно
+https://tva.in.ua/live/bcuaction-token=iptv.org.ua-key.m3u8
+#EXTINF:-1,Amedia 2
+#EXTGRP:Кіно
+http://85.117.61.84/amedia2/index.m3u8
+#EXTINF:-1,Amedia Hit
+#EXTGRP:Кіно
+http://stream.mcquack.net/162/index.m3u8
+#EXTINF:-1,Amedia Hit
+#EXTGRP:Кіно
+https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Amedia Premium
+#EXTGRP:Кіно
+https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Amedia Premium
+#EXTGRP:Кіно
+http://85.117.61.97:8000/play/a013/index.m3u8
+#EXTINF:-1,Amedia Premium
+#EXTGRP:Кіно
+http://stream.mcquack.net/151/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/33/b9/3e/33b93ea4e61effc64d39a331e910d6ae.jpg",Film.Ua Drama
+#EXTGRP:Кіно
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/33/b9/3e/33b93ea4e61effc64d39a331e910d6ae.jpg",Film.Ua Drama
+#EXTGRP:Кіно
+http://stream.mcquack.net/273/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/33/b9/3e/33b93ea4e61effc64d39a331e910d6ae.jpg",Film.Ua Drama
+#EXTGRP:Кіно
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/33/b9/3e/33b93ea4e61effc64d39a331e910d6ae.jpg",Viasat Epic Drama
+#EXTGRP:Кіно
+http://195.189.60.253/118/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/04/f8/59/04f859efe44a79c7ac0c3a0c5b51363f.jpg",FX Life
+#EXTGRP:Кіно
+http://stream.mcquack.net/129/index.m3u8
+#EXTINF:-1,Fox
+#EXTGRP:Кіно
+http://stream.mcquack.net/182/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Fox
+#EXTGRP:Кіно
+http://stream.mcquack.net/182/index.m3u8
+
+#EXTINF:-1,Дорама
+#EXTGRP:Кіно
+http://stream.mcquack.net/412/index.m3u8
+#EXTINF:-1,Дорама
+#EXTGRP:Кіно
+http://109.248.236.51/dorama/video.m3u8
+#EXTINF:-1,Дорама
+#EXTGRP:Кіно
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Дорама Hit
+#EXTGRP:Кіно
+http://176.107.190.233:8000/play/a00a
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e0/bf/91/e0bf91a55eff335f39067b7040231a81.jpg",CGTN-Русский
+#EXTGRP:Кіно
+https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/c6/a9/24/c6a92448b7722241b9a7daf2e3cdfd4c.jpg",Кинеко
+#EXTGRP:Кіно
+http://185.121.1.163:8083/Kineko/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/f5/c6/00/f5c6002a80c554e6174c93ba078669c8.jpg",Bollywood
+#EXTGRP:Кіно
+http://185.121.1.163:8083/Bollywood/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/f5/c6/00/f5c6002a80c554e6174c93ba078669c8.jpg",Bollywood
+#EXTGRP:Кіно
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
+#EXTINF:-1,Индия
+#EXTGRP:Кіно
+https://fs.uplink.kz/india/mono.m3u8?token=onlinetv2
+#EXTINF:-1,ИНДИЯ 
+#EXTGRP:Кіно
+http://91.205.196.7:8000/play/a02r
+#EXTINF:-1,Индийское кино
+#EXTGRP:Кіно
+https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Индийское кино
+#EXTGRP:Кіно
+http://185.121.1.163:8083/IndiyskoeKino/index.m3u8
+#EXTINF:-1,Индийское кино
+#EXTGRP:Кіно
+http://91.205.196.7:8000/play/a02q
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/91/a1/65/91a16581c6b7d61dc4414f0090ef5965.jpg",Твоє Кіно Зал1
+#EXTGRP:Кiнозали
+http://176.107.190.233:8000/play/a00m
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/91/a1/65/91a16581c6b7d61dc4414f0090ef5965.jpg",Твоє Кіно Зал2
+#EXTGRP:Кiнозали
+http://176.107.190.233:8000/play/a00n
+
+#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/349/index.m3u8
+#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan Top
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/350/index.m3u8
+#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",Cineman Катастрофы
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/471/index.m3u8
+#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan Melodrama
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/472/index.m3u8
+#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan Action
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/351/index.m3u8
+#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan Thriller
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/352/index.m3u8
+#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan Ужасы
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/355/index.m3u8
+#EXTINF:40 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan Комедия
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/356/index.m3u8
+#EXTINF:41 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",Cineman VHS
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/474/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",Cineman MiniSeries
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/122/index.m3u8
+#EXTINF:40 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",Cineman Лесник
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/115/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",Cineman Скорая помощь HD
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/475/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Rating
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/422/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Cinema
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/423/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Premiere
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/424/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Comedy
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/426/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Family
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/427/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh VHS
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/428/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Fantastic
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/429/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Series
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/430/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Horror
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/431/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Adventure
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/432/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Romantic
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/433/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/3f/ed/9c/3fed9cf26874200d15a2b1560b85cd53.jpg",Fresh Thriller
+#EXTGRP:Кiнозали
+http://stream.mcquack.net/434/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозалы 1
+#EXTGRP:Кiнозали
+https://stream.ushba.tv/akamaiushba/ushba82/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1,2+2
+#EXTGRP:Українські
+http://stream.mcquack.net/173/index.m3u8
+#EXTINF:-1,2+2
+#EXTGRP:Українські
+http://195.234.6.84:8002/play/153
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/50/78/64/507864fd4c05616bf0bc9621b316571e.jpg",ICTV2
+#EXTGRP:Українські
+http://stream.mcquack.net/368/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/fa/ff/88/faff887a728fbf7460ec0f28d8bc5032.jpg",Новий канал
+#EXTGRP:Українські
+http://stream.mcquack.net/157/index.m3u8
+#EXTINF:-1 tvg-logo="",ТЕТ
+#EXTGRP:Українські
+http://stream.mcquack.net/338/index.m3u8
+#EXTINF:-1 tvg-name="FILM TV Кінозал" tvg-logo="https://i.pinimg.com/736x/84/d9/e3/84d9e38464bd9ab822630e0a38567f0c.jpg",FILM TV Кінозал
+#EXTGRP:Українські
+https://ottiptvfilmtvgroup.zapto.org:8080/FILMTVKinozal/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODgyNTE3MTEsImV4cCI6MTc4ODMzODExMSwic3ViIjoiQWRtaW4ifQ.U2O0Qs3aqhkbpw3vN7imXJVs9gUfEl_9KgexLQO2WS4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/79/06/cf/7906cfbc421446c1a940446868ee1ab4.jpg",1+1 Україна HD
+#EXTGRP:Українські
+http://195.234.6.84:8002/play/001_1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/79/06/cf/7906cfbc421446c1a940446868ee1ab4.jpg",1+1 Україна HD
+#EXTGRP:Українські
+http://m3u8.ott.blue/C5UK_1plus1SD/mpegts?token=94450098895765784220366841698509
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/79/06/cf/7906cfbc421446c1a940446868ee1ab4.jpg",1+1 Україна HD
+#EXTGRP:Українські
+http://stream.mcquack.net/219/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/78/e3/0a/78e30a0b12cfe2bfd56d48115d2365c2.jpg",1+1 international
+#EXTGRP:Українські
+https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+#EXTINF:0,УНІАН HD
+#EXTGRP:Українські
+http://195.234.6.84:8002/play/0291
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/23/b1/db/23b1dbf9cc0ad61275faa0f31328234b.jpg",Bolt HD Украина
+#EXTGRP:Українські
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/f2/92/cf/f292cfdb0220cb0aefa51bbc0c7d3a22.jpg",Ми - Україна+
+#EXTGRP:Українські
+http://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/f2/92/cf/f292cfdb0220cb0aefa51bbc0c7d3a22.jpg",Ми - Україна+
+#EXTGRP:Українські
+http://176.107.190.233:8000/play/a00d0
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/29/d9/69/29d969acb1018c94184fb3a76b4b17f7.jpg",СТБ HD
+#EXTGRP:Українські
+http://stream.mcquack.net/156/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/50/58/63/5058635f958baf32474ea2ba0311733a.jpg",Интер+
+#EXTGRP:Українські
+https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/50/58/63/5058635f958baf32474ea2ba0311733a.jpg",Интер+
+#EXTGRP:Українські
+http://stream.mcquack.net/345/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/a8/fd/14/a8fd14fa3dca908fd1d552b53131631d.jpg",Enter-фiльм
+#EXTGRP:Українські
+http://31.43.48.248:7000/ch54/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/a8/fd/14/a8fd14fa3dca908fd1d552b53131631d.jpg",Enter-фiльм
+#EXTGRP:Українські
+http://stream.mcquack.net/322/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/f9/1f/32/f91f3252f6aebb9583903a58bb1f7631.jpg",Твiй серiал
+#EXTGRP:Українські
+http://stream.mcquack.net/466/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/fc/d7/84/fcd784d73d25211411be634ce69a5667.jpg",НТН
+#EXTGRP:Українські
+http://stream.mcquack.net/326/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/fc/d7/84/fcd784d73d25211411be634ce69a5667.jpg",НТН
+#EXTGRP:Українські
+https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/59/67/e7596752e8968e70785b1bb509a1097e.jpg",ОЦЕ
+#EXTGRP:Українські
+http://stream.mcquack.net/329/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3f/82/0d/3f820d692afb27190112181a2c2b121e.jpg",k1-ua
+#EXTGRP:Українські
+http://stream.mcquack.net/270/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/5f/83/93/5f839376507861b829caf2e70618ac46.jpg",k2-ua
+#EXTGRP:Українські
+http://stream.mcquack.net/324/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/91/a1/65/91a16581c6b7d61dc4414f0090ef5965.jpg",Історичні серіали HD
+#EXTGRP:Українські
+http://176.107.190.233:8000/play/a00g
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/6c/a1/bc/6ca1bcf4f7b922f2e875ccf45fd8630b.jpg",Сімейні мелодрами+ HD
+#EXTGRP:Українські
+http://stream.mcquack.net/137/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Опер за викликом+ HD
+#EXTGRP:Українські
+http://stream.mcquack.net/50/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/23/d0/42/23d04293d12ebe92ee12edc3a944f5b5.jpg",Zoom
+#EXTGRP:Українські
+http://stream.mcquack.net/327/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cb/a2/a7/cba2a7fad4d895cb3b57e01f560afc6b.jpg",Dom
+#EXTGRP:Українські
+http://stream.mcquack.net/383/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/73/83/59/738359125efe10a319fb99347c0d3ff4.jpg",Бiгудi
+#EXTGRP:Українські
+http://stream.mcquack.net/340/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/c0/20/61/c02061a2075f5d06733e6d4d747c5af7.jpg",Sweet.TV
+#EXTGRP:Українські
+http://176.107.190.233:8000/play/a00500
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/8b/e6/9c8be676cdf7e6a6c2788b73be659c98.jpg",Суспільне Культура HD
+#EXTGRP:Українські
+http://stream.mcquack.net/435/index.m3u8
+#EXTINF:0,Закон ТВ
+#EXTGRP:Українські
+http://195.189.60.253/zakon_tv_hd/video.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/0e/f4/0d/0ef40d8ad0fc4b6b4492541be227fb9b.jpg",33 канал
+#EXTGRP:Українські
+https://33news.org/33chanel/live/chunklist_w459617257.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/fc/3d/be/fc3dbe11d32b0b7f695f2bfac0325210.jpg",Перший інформаційний канал
+#EXTGRP:Українські
+http://91.226.35.134:8081/PK
+#EXTINF:0,Глас
+#EXTGRP:Українські
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/d9/84/a0/d984a0046c3a50500e5bd3103ddce7a8.jpg",Ізмаіл
+#EXTGRP:Українські
+http://cdn10.live-tv.od.ua:8081/izod/izod-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c2/e9/e1/c2e9e148681000aa0a15336e52b72cfd.jpg",Репортер
+#EXTGRP:Українські
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/e2/16/6b/e2166b3dac6e4042df4147c206b1836c.jpg",РАІ
+#EXTGRP:Українські
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1,Чернівецький Промінь HD
+#EXTGRP:Українські
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a3/b3/a2/a3b3a259b45cdf6d9e66328d3e6fd9f5.jpg",ITV (Рівне)
+#EXTGRP:Українські
+http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
+#EXTINF:0,Гумор+
+#EXTGRP:Українські
+http://176.107.190.233:8000/play/a009000
+#EXTINF:0,Панянка-селянка+ HD
+#EXTGRP:Українські
+http://176.107.190.233:8000/play/a00b000
+#EXTINF:-1,Панянка-селянка+ HD
+#EXTGRP:Українські
+http://stream.mcquack.net/134/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/aa/0d/40/aa0d40f16aa8df4229ab33234cd0981d.jpg",Орбіта
+#EXTGRP:Українські
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:0,Сварожичи
+#EXTGRP:Українські
+http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/9c/71/36/9c7136455e2d9cd89dfdaaa9fe7edba4.jpg",TVA
+#EXTGRP:Українські
+http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/07/00/68/070068d175d723db70ee9ebe676c3bf5.jpg",Перший міський Кривий Ріг
+#EXTGRP:Українські
+https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/79/06/cf/7906cfbc421446c1a940446868ee1ab4.jpg",1+1 Марафон
+#EXTGRP:Українські
+https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/79/06/cf/7906cfbc421446c1a940446868ee1ab4.jpg",1+1 Марафон
+#EXTGRP:Українські
+http://stream.mcquack.net/172/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/79/06/cf/7906cfbc421446c1a940446868ee1ab4.jpg",1+1 Марафон
+#EXTGRP:Українські
+http://195.234.6.84:8002/play/903
+#EXTINF:-1,Интер
+#EXTGRP:Українські
+http://stream.mcquack.net/174/index.m3u8
+#EXTINF:0,ICTV
+#EXTGRP:Українські
+http://stream.mcquack.net/158/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/89/30/ff/8930ffae5c3f040c05187c8cb5885955.jpg",PTV
+#EXTGRP:Українські
+https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
+#EXTINF:-1,Рада
+#EXTGRP:Українські
+https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c9/ab/08/c9ab086f826cd658bdea48ab3b63da46.jpg",ATR HD
+#EXTGRP:Українські
+http://stream.mcquack.net/244/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/8b/e6/9c8be676cdf7e6a6c2788b73be659c98.jpg",Суспільне Київ HD
+#EXTGRP:Українські
+http://stream.mcquack.net/439/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/8b/e6/9c8be676cdf7e6a6c2788b73be659c98.jpg",Суспільне Крим HD
+#EXTGRP:Українські
+http://stream.mcquack.net/436/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cd/d7/ef/cdd7ef3822d173ce195813c77b1cb90b.jpg",Київ HD
+#EXTGRP:Українські
+https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/1f/b7/87/1fb787ce0042e0f4552cba45eb449a61.jpg",НТК Коломия
+#EXTGRP:Українські
+https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/b5/f1/fcb5f14aa1c9b916732a2123e208503f.jpg",МТМ Запоріжжя
+#EXTGRP:Українські
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/90/6f/ab/906fab360a6009afef681eb24691ab45.jpg",ДнiпроTV
+#EXTGRP:Українські
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:0,IPT
+#EXTGRP:Українські
+https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2123.png",СК1 (Житомир)
+#EXTGRP:Українські
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c7/31/82/c73182fba57d951d6187f6cd6b18c6b2.jpg",TV Rivne 1
+#EXTGRP:Українські
+https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cb/e8/a8/cbe8a8b64936c60c596d6073f4d8f37a.jpg",Еспресо TV HD
+#EXTGRP:Українські
+http://stream.mcquack.net/84/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cb/e8/a8/cbe8a8b64936c60c596d6073f4d8f37a.jpg",Еспресо TV HD
+#EXTGRP:Українські
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c5/2a/d4/c52ad43d7d2b507f80122442e1c5f726.jpg",Первый Городской (Одесса)
+#EXTGRP:Українські
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/f2/32/96/f2329676ecca36ff7d0b59ef1fe1ceb1.jpg",Сфера ТВ
+#EXTGRP:Українські
+http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/f2/32/96/f2329676ecca36ff7d0b59ef1fe1ceb1.jpg",Сфера ТВ
+#EXTGRP:Українські
+https://cdn10.live-tv.cloud/sferarv/sferarv-abr/sferarv/720p/chunks.m3u8
+#EXTINF:0,Новини.Live
+#EXTGRP:Українські
+rtmp://95.67.11.153/klive/stream
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/d6/ef/19/d6ef193eb32bcdac6b346594a73bcafb.jpg",Freeдом
+#EXTGRP:Українські
+https://dash4.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/d6/ef/19/d6ef193eb32bcdac6b346594a73bcafb.jpg",Freeдом
+#EXTGRP:Українські
+http://85.117.61.97:8000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/8b/e6/9c8be676cdf7e6a6c2788b73be659c98.jpg",UA:Перший
+#EXTGRP:Українські
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2079.png",5 канал (Украина)
+#EXTGRP:Українські
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/65/b4/da/65b4daa3ffd6169884e5e633257e6a89.jpg",24 Канал
+#EXTGRP:Українські
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/65/b4/da/65b4daa3ffd6169884e5e633257e6a89.jpg",24 Канал
+#EXTGRP:Українські
+https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
+#EXTINF:-1,100%NEWS
+#EXTGRP:Українські
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfYVCJC.png",Simon
+#EXTGRP:Українські
+https://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/4f/0f/91/4f0f91cab88e381c797c2db035b4eb9a.jpg",Армія ТБ
+#EXTGRP:Українські
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:0,OTV (Ukraine)
+#EXTGRP:Українські
+https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
+
+
+#EXTINF:0,Cartoon Network
+#EXTGRP:Мультфільм
+http://45.132.87.69:8080/cartoon_network/index.m3u8
+#EXTINF:0,Cartoon Network BG
+#EXTGRP:Мультфільм
+http://78.108.244.134:8899/cn
+#EXTINF:-1 tvg-rec="7" timeshift="7",Nickelodeon
+#EXTGRP:Мультфільм
+http://stream.mcquack.net/443/index.m3u8
+#EXTINF:-1 tvg-rec="7" timeshift="7",Nick Jr
+#EXTGRP:Мультфільм
+http://stream.mcquack.net/220/index.m3u8
+#EXTINF:0,Cine Max Cartoons 90
+#EXTGRP:Мультфільм
+http://stream.mcquack.net/484/index.m3u8
+#EXTINF:0,Niki Kids
+#EXTGRP:Мультфільм
+http://195.234.6.84:8002/play/249
+#EXTINF:0,Niki Junior
+#EXTGRP:Мультфільм
+http://195.234.6.84:8002/play/260
+#EXTINF:-1 tvg-rec="7" timeshift="7",Cine Max
+#EXTGRP:Мультфільм
+http://stream.mcquack.net/476/index.m3u8
+#EXTINF:0,СоюзМультфильм
+#EXTGRP:Мультфільм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:0,Карусель
+#EXTGRP:Мультфільм
+http://185.37.150.46/Karusel/index.m3u8
+#EXTINF:-1,Карусель
+#EXTGRP:Мультфільм
+https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Карусель
+#EXTGRP:Мультфільм
+http://85.117.37.43/karusel/index.m3u8
+#EXTINF:0  tvg-id="Film TV Kids" tvg-logo="http://filmtvgroup.site/uploads/channel/FILMTVKIDS.png",Film TV Kids
+#EXTGRP:Мультфільм
+https://ottiptvfilmtvgroup.zapto.org:8080/FilmTVKids/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODgyNTE3MTEsImV4cCI6MTc4ODMzODExMSwic3ViIjoiQWRtaW4ifQ.U2O0Qs3aqhkbpw3vN7imXJVs9gUfEl_9KgexLQO2WS4
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png",Маша и Медведь
+#EXTGRP:Мультфільм
+https://live20.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpRXL3jP/image-4.png",Том и Джерри
+#EXTGRP:Мультфільм
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:0,Чип и Дейл
+#EXTGRP:Мультфільм
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1,Мульт
+#EXTGRP:Мультфільм
+http://stream.mcquack.net/180/index.m3u8
+#EXTINF:-1,Мульт
+#EXTGRP:Мультфільм
+http://85.117.61.97:8000/play/a01r/index.m3u8
+#EXTINF:-1,Мульт
+#EXTGRP:Мультфільм
+https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Мульт
+#EXTGRP:Мультфільм
+http://85.117.61.84/mult/index.m3u8
+#EXTINF:-1,Повний Мульт
+#EXTGRP:Мультфільм
+http://176.107.190.233:8000/play/a00300
+#EXTINF:0,МультStream
+#EXTGRP:Мультфільм
+http://176.107.190.233:8000/play/a00200
+#EXTINF:-1,В гостях у сказки
+#EXTGRP:Мультфільм
+https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Baby time
+#EXTGRP:Мультфільм
+https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Лапки Live
+#EXTGRP:Мультфільм
+https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv2
+#EXTINF:-1,О!
+#EXTGRP:Мультфільм
+https://fs.uplink.kz/o/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Бобёр
+#EXTGRP:Мультфільм
+https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Мультиландия
+#EXTGRP:Мультфільм
+https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv2
+#EXTINF:-1,tiji
+#EXTGRP:Мультфільм
+http://85.117.61.84/tiji/index.m3u8
+
+
+#EXTINF:-1,Discovery
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/177/index.m3u8
+#EXTINF:-1,Discovery
+#EXTGRP:Пізнавальні
+http://91.205.196.7:8000/play/a023
+#EXTINF:-1,Investigation Discovery
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/205/index.m3u8
+#EXTINF:-1,National Geographic
+#EXTGRP:Пізнавальні
+https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv2
+#EXTINF:-1,National Geographic
+#EXTGRP:Пізнавальні
+http://91.205.196.7:8000/play/a024
+#EXTINF:-1,National Geographic
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+#EXTGRP:Пізнавальні
+https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Nat Geo Wild
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/149/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+#EXTGRP:Пізнавальні
+http://91.205.196.7:8000/play/a02a
+#EXTINF:-1,Animal Planet
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/114/index.m3u8
+#EXTINF:-1,Animal Planet
+#EXTGRP:Пізнавальні
+http://91.205.196.7:8000/play/a029
+#EXTINF:-1,DELTA TRAVEL 
+#EXTGRP:Пізнавальні
+http://91.205.196.7:8000/play/a025
+#EXTINF:-1,Love Nature 4K
+#EXTGRP:Пізнавальні
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-logo="",Travel XP HD
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/451/index.m3u8
+#EXTINF:-1,The Explorers
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/450/index.m3u8
+#EXTINF:-1,Viasat Explore
+#EXTGRP:Пізнавальні
+https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Viasat History
+#EXTGRP:Пізнавальні
+https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Viasat Nature
+#EXTGRP:Пізнавальні
+https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Viju history
+#EXTGRP:Пізнавальні
+http://85.117.37.43/vijuhistory/index.m3u8
+#EXTINF:-1,Viju nature
+#EXTGRP:Пізнавальні
+http://85.117.37.43/vijunature/index.m3u8
+#EXTINF:-1  tvg-id="tlc"   tvg-rec="7" timeshift="7",TLC
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/168/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/54/0f/d0/540fd00e1f2fed6a78766ac70e239823.jpg",RAZ 1
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/463/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/59/65/cd/5965cd994ffddcb21a9f26f79ac9d0d6.jpg",RAZ 2
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/464/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-rec="7" timeshift="7",Travel channel
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/231/index.m3u8
+#EXTINF:0,Global Life HD
+#EXTGRP:Пізнавальні
+http://176.107.190.233:8000/play/a00f07
+
+#EXTINF:-1 tvg-logo="" tvg-rec="7" timeshift="7",Инсайт ТВ
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/361/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-rec="7" timeshift="7",В мире животных
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/241/index.m3u8
+#EXTINF:-1 tvg-logo="",Фронт HD
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/489/index.m3u8
+#EXTINF:-1,Світ навиворіт+ HD
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/49/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Загублений світ+ HD
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/223/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Фауна
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/401/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,One Planet HD
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/448/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Зоосвіт
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/460/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Зоосвіт
+#EXTGRP:Пізнавальні
+http://176.107.190.233:8000/play/a00c
+#EXTINF:-1,Мега
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/325/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Машина часу HD
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/140/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,ЖВЛ+
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/139/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" tvg-rec="7" timeshift="7",Чемодан ТВ
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/399/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-rec="7" timeshift="7",Закон
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/406/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/05/61/5c/05615cbebd9a38c4cfee3530fb5065dd.jpg",Масон ТВ
+#EXTGRP:Пізнавальні
+http://195.189.60.253/mason_tv_hd/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/05/61/5c/05615cbebd9a38c4cfee3530fb5065dd.jpg" tvg-rec="7" timeshift="7",Масон ТВ
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/346/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xq6p9BZ.png",Dacha HD
+#EXTGRP:Пізнавальні
+https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-rec="7" timeshift="7",Наука
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/403/index.m3u8
+#EXTINF:0,Utravel HD
+#EXTGRP:Пізнавальні
+http://195.234.6.84:8002/play/072
+
+#EXTINF:-1,Big planet
+#EXTGRP:Пізнавальні
+https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Планета
+#EXTGRP:Пізнавальні
+http://85.117.61.84/planeta/index.m3u8
+#EXTINF:-1,Поехали!
+#EXTGRP:Пізнавальні
+https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Точка отрыва
+#EXTGRP:Пізнавальні
+https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Жара
+#EXTGRP:Пізнавальні
+https://fs.uplink.kz/zhara/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Моя планета
+#EXTGRP:Пізнавальні
+https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-logo="",Моя стихия
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/141/index.m3u8
+#EXTINF:-1,Приключения HD
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="",Наука
+#EXTGRP:Пізнавальні
+http://178.134.1.158:8081/nauka/index.m3u8
+#EXTINF:-1,Зоопарк
+#EXTGRP:Пізнавальні
+http://85.117.61.84/zoo/index.m3u8
+#EXTINF:-1,Зоопарк
+#EXTGRP:Пізнавальні
+https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-logo="",Зоопарк HD
+#EXTGRP:Пізнавальні
+http://178.134.1.158:8081/zoopark/index.m3u8
+#EXTINF:-1 tvg-logo="",Загородная жизнь
+#EXTGRP:Пізнавальні
+http://185.57.68.33/40/index.m3u8
+#EXTINF:0,Дикий Охота и Рыбалка
+#EXTGRP:Пізнавальні
+http://85.117.61.97:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-logo="",Охота и Рыбалка
+#EXTGRP:Пізнавальні
+http://185.121.1.163:8083/OhotaRybalka/index.m3u8
+#EXTINF:-1 tvg-logo="",Охота и Рыбалка
+#EXTGRP:Пізнавальні
+http://85.117.61.84/oxotaribalka/index.m3u8
+#EXTINF:-1,Охотник и рыболов HD 
+#EXTGRP:Пізнавальні
+http://91.205.196.7:8000/play/a028
+#EXTINF:0,Rybalka
+#EXTGRP:Пізнавальні
+https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/68/65/f3/6865f3e75448ec6ab9112b62adc68288.jpg",Трофей
+#EXTGRP:Пізнавальні
+http://stream.mcquack.net/357/index.m3u8
+#EXTINF:-1,АВТО ПЛЮС 
+#EXTGRP:Пізнавальні
+http://91.205.196.7:8000/play/a026
+#EXTINF:-1,Авто 24
+#EXTGRP:Пізнавальні
+https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv2
+
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/fd/67/af/fd67af7368432f0810d8ed13c8364ec7.jpg",Dynamo Kyiv TV
+#EXTGRP:Спорт
+http://stream.mcquack.net/396/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/e3/a2/98/e3a2984ee5e2f8d12eb279aae7634b11.jpg",Setanta Sports 1 Lietuva
+#EXTGRP:Спорт
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/e3/a2/98/e3a2984ee5e2f8d12eb279aae7634b11.jpg",Setanta Sports 1
+#EXTGRP:Спорт
+http://85.117.61.97:8000/play/a038/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/d8/fb/b6/d8fbb618478f6d210575163a6717603b.jpg",Setanta Sports 2 Lietuva
+#EXTGRP:Спорт
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/d8/fb/b6/d8fbb618478f6d210575163a6717603b.jpg",Setanta Sports 2 🇬🇪
+#EXTGRP:Спорт
+http://85.117.61.84/setanta2/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/d8/fb/b6/d8fbb618478f6d210575163a6717603b.jpg",Setanta Sports 2
+#EXTGRP:Спорт
+http://85.117.61.97:8000/play/a039/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/d8/fb/b6/d8fbb618478f6d210575163a6717603b.jpg",Setanta Sports 3
+#EXTGRP:Спорт
+http://85.117.61.84/setanta3/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/d8/fb/b6/d8fbb618478f6d210575163a6717603b.jpg",Setanta Sports 3
+#EXTGRP:Спорт
+http://85.117.61.97:8000/play/a03a/index.m3u8
+
+#EXTINF:-1,1TV Sport
+#EXTGRP:Спорт
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,FIFA+ United States
+#EXTGRP:Спорт
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1,MATCH PREMYER
+#EXTGRP:Спорт
+http://91.205.196.7:8000/play/a03l
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/91/50/e29150a5602681a3babf096e2e1718a4.jpg",Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://31.148.5.241/Match_Football_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/91/50/e29150a5602681a3babf096e2e1718a4.jpg",Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://91.205.196.7:8000/play/a02z
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/14/6b/1b/146b1bb2c0120c97232be0a028bae77b.jpg",Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://91.205.196.7:8000/play/a030
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/14/6b/1b/146b1bb2c0120c97232be0a028bae77b.jpg",Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://31.148.5.241/Match_Football_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/01/9a/c5/019ac5c1973f05e47aa3d4e559039621.jpg",Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://31.148.5.241/Match_Football_3_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/01/9a/c5/019ac5c1973f05e47aa3d4e559039621.jpg",Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://176.100.46.245:90/matchfootball3/index.m3u8
+#EXTINF:-1,Матч ТВ
+#EXTGRP:Спорт
+https://fs.uplink.kz/match/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Матч!
+#EXTGRP:Спорт
+http://31.148.5.241/kanal_3/index.m3u8
+#EXTINF:-1,Матч!
+#EXTGRP:Спорт
+http://45.132.87.69:8080/match/index.m3u8
+#EXTINF:-1,МАТЧ!
+#EXTGRP:Спорт
+http://95.47.155.244:8001/play/a003
+#EXTINF:-1,Матч! Игра
+#EXTGRP:Спорт
+http://185.37.150.38/test/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/b1/31/24/b13124e54d54fbf057c7dacc9cf142be.jpg",МАТЧ! Страна
+#EXTGRP:Спорт
+http://nl4.iptv.monster/play/134/94447FD31B88A87/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/b1/31/24/b13124e54d54fbf057c7dacc9cf142be.jpg",МАТЧ! Страна
+#EXTGRP:Спорт
+http://85.117.61.97:8000/play/a050/index.m3u8
+#EXTINF:-1,МАТЧ ПЛАНЕТА
+#EXTGRP:Спорт
+http://91.205.196.7:8000/play/a02u
+#EXTINF:-1,Матч! Планета
+#EXTGRP:Спорт
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv2
+#EXTINF:-1,МАТЧ БОЕЦ 
+#EXTGRP:Спорт
+http://91.205.196.7:8000/play/a02s
+#EXTINF:0,Матч! Арена
+#EXTGRP:Спорт
+http://85.117.61.97:8000/play/a04z/index.m3u8
+#EXTINF:0,Sport 1 Baltic
+#EXTGRP:Спорт
+http://stream.mcquack.net/461/index.m3u8
+#EXTINF:0,Sport 1
+#EXTGRP:Спорт
+http://stream.mcquack.net/391/index.m3u8
+#EXTINF:0,Sport 2
+#EXTGRP:Спорт
+http://stream.mcquack.net/392/index.m3u8
+#EXTINF:0,Sport 3
+#EXTGRP:Спорт
+http://stream.mcquack.net/393/index.m3u8
+#EXTINF:0,Sport 4
+#EXTGRP:Спорт
+http://stream.mcquack.net/394/index.m3u8
+#EXTINF:0,Sport 5
+#EXTGRP:Спорт
+http://stream.mcquack.net/212/index.m3u8
+#EXTINF:-1,Extreme Sports
+#EXTGRP:Спорт
+http://stream.mcquack.net/148/index.m3u8
+#EXTINF:-1,Etreme sports
+#EXTGRP:Спорт
+https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv2
+#EXTINF:-1,KHL Prime
+#EXTGRP:Спорт
+https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv2
+#EXTINF:-1,KHL
+#EXTGRP:Спорт
+http://85.117.61.84/khl/index.m3u8
+#EXTINF:-1,KHL
+#EXTGRP:Спорт
+https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv2
+#EXTINF:-1,MMA-TV
+#EXTGRP:Спорт
+https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Qazsport HD
+#EXTGRP:Спорт
+https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Viasat Sport
+#EXTGRP:Спорт
+https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv2
+#EXTINF:0,Viasat Sport
+#EXTGRP:Спорт
+http://31.148.5.241/Viasat_Sport/index.m3u8
+#EXTINF:-1,VIJU+SPORT
+#EXTGRP:Спорт
+http://91.205.196.7:8000/play/a02y
+#EXTINF:-1,FAST SPORT HD 
+#EXTGRP:Спорт
+http://91.205.196.7:8000/play/a02t
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2326.png",MMA-TV
+#EXTGRP:Спорт
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1,Eurosport 1 HD
+#EXTGRP:Спорт
+http://31.148.5.241/Eurosport_1_HD/index.m3u8
+#EXTINF:-1,EUROSPORT 1 HD 
+#EXTGRP:Спорт
+http://91.205.196.7:8000/play/a02v
+#EXTINF:-1,EUROSPORT 2 HD 
+#EXTGRP:Спорт
+http://91.205.196.7:8000/play/a02w
+#EXTINF:-1,Eurosport 2 HD
+#EXTGRP:Спорт
+http://31.148.5.241/Eurosport_2_HD/index.m3u8
+
+#EXTINF:-1,TV3 Sport LT
+#EXTGRP:Спорт
+http://stream.mcquack.net/416/index.m3u8
+
+#EXTINF:-1,ONEPLAY1-kolo cz
+#EXTGRP:Спорт
+http://45.129.141.180:9981/stream/channelid/177253733?profile=iptv.org.ua
+#EXTINF:-1,ONEPLAY2-kolo cz
+#EXTGRP:Спорт
+http://45.129.141.180:9981/stream/channelid/1716506983?profile=iptv.org.ua
+#EXTINF:-1,ONEPLAY3-kolo cz
+#EXTGRP:Спорт
+http://45.129.141.180:9981/stream/channelid/1597775099?profile=iptv.org.ua
+#EXTINF:-1,PREMIER SPORT1 cz
+#EXTGRP:Спорт
+http://45.129.141.180:9981/stream/channelid/2020429400?profile=iptv.org.ua
+#EXTINF:-1, PREMIER SPORT2 cz
+#EXTGRP:Спорт
+http://45.129.141.180:9981/stream/channelid/877537711?profile=iptv.org.ua
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png",Goal TV
+#EXTGRP:Спорт
+http://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:0 tvg-logo="http://i120.fastpic.org/big/2022/1002/60/2f8a8f9c961b16485098b28ba00c7b60.png",UFC
+#EXTGRP:Спорт
+https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
+#EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/1002/60/2f8a8f9c961b16485098b28ba00c7b60.png",UFC
+#EXTGRP:Спорт
+http://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+
+#EXTINF:-1,TOP Barca
+#EXTGRP:Спорт
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1,Red Bull TV
+#EXTGRP:Спорт
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Bein EXTRAS
+#EXTGRP:Спорт
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1,Real Madrid TV
+#EXTGRP:Спорт
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1,TOP Barca
+#EXTGRP:Спорт
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1,Sports Grid
+#EXTGRP:Спорт
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,UNBEATEN
+#EXTGRP:Спорт
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Canal Motor
+#EXTGRP:Спорт
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1,Motor sport revue HD
+#EXTGRP:Спорт
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+
+
+#EXTINF:-1,ÓČKO HITY
+#EXTGRP:Музика
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1,Ocko Expres
+#EXTGRP:Музика
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:0,DanceTV Techno Warehouse (1080p)
+#EXTGRP:Музика
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-logo="",Power Love TV
+#EXTGRP:Музика
+https://listen.powerapp.com.tr/plove/love.smil/chunks.m3u8
+#EXTINF:-1,City
+#EXTGRP:Музика
+https://tv.city.bg/play/tshls/citytv/2.m3u8
+#EXTINF:-1,Deluxe Music
+#EXTGRP:Музика
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:0 tvg-id="DJUA" tvg-logo="http://filmtvgroup.site/uploads/channel/UADJ.png",DJUA
+#EXTGRP:Музика
+https://filmtvgroup.hopto.org:8080/DJUa/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODgyNTE3MTEsImV4cCI6MTc4ODMzODExMSwic3ViIjoiQWRtaW4ifQ.U2O0Qs3aqhkbpw3vN7imXJVs9gUfEl_9KgexLQO2WS4
+#EXTINF:0 tvg-id="FILM TV MUSIC" tvg-logo="http://filmtvgroup.site/uploads/channel/musicftv.png",FILM TV MUSIC
+#EXTGRP:Музика
+https://ottiptvfilmtvgroup.zapto.org:8080/filmtvmusic/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODgyNTE3MTEsImV4cCI6MTc4ODMzODExMSwic3ViIjoiQWRtaW4ifQ.U2O0Qs3aqhkbpw3vN7imXJVs9gUfEl_9KgexLQO2WS4
+#EXTINF:0 tvg-id="RETRO WAVE UA TV" tvg-logo="http://filmtvgroup.site/uploads/channel/rw.png",RETRO WAVE UA TV
+#EXTGRP:Музика
+https://filmtvgroup.hopto.org:8080/RETROWAVEUAtv/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODgyNTE3MTEsImV4cCI6MTc4ODMzODExMSwic3ViIjoiQWRtaW4ifQ.U2O0Qs3aqhkbpw3vN7imXJVs9gUfEl_9KgexLQO2WS4
+#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=180511",Krone hit HD
+#EXTGRP:Музика
+http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:10,Best of Dance TV
+#EXTGRP:Музика
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1,88 STEREO TV
+#EXTGRP:Музика
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1,HiHop TV
+#EXTGRP:Музика
+http://k4.usastreams.com/festivatelevision/HiHop/media.m3u8
+#EXTINF:0,Retro Music TV
+#EXTGRP:Музика
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Stingray Classic Rock
+#EXTGRP:Музика
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,Music Box 80's
+#EXTGRP:Музика
+http://57.128.231.171:8080/229/index.m3u8
+#EXTINF:60,Now Rock
+#EXTGRP:Музика
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,XITE 90s Throwback
+#EXTGRP:Музика
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB3200007AK
+#EXTINF:-1,XITE Nuevo Latino
+#EXTGRP:Музика
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300007PB
+#EXTINF:0,EU Music
+#EXTGRP:Музика
+http://195.234.6.84:8002/play/144
+#EXTINF:0,UA Music
+#EXTGRP:Музика
+http://195.234.6.84:8002/play/094
+#EXTINF:0,4ever music
+#EXTGRP:Музика
+http://195.234.6.84:8002/play/173
+#EXTINF:0,Viva Latino
+#EXTGRP:Музика
+http://195.234.6.84:8002/play/917
+#EXTINF:-1,Activa TV
+#EXTGRP:Музика
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1,XPTV1
+#EXTGRP:Музика
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1,1MUS
+#EXTGRP:Музика
+http://rtmp.one.by:1300
+#EXTINF:-1,Factoria TV HD
+#EXTGRP:Музика
+https://eu1.servers10.com:8081/8010/index.m3u8
+#EXTINF:-1,Trace Urban HD
+#EXTGRP:Музика
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,Ocko Star
+#EXTGRP:Музика
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0,Ocko Star
+#EXTGRP:Музика
+https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
+#EXTINF:0,Hit FM
+#EXTGRP:Музика
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+#EXTINF:-1,V2BEAT
+#EXTGRP:Музика
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1,Европа плюс ТВ
+#EXTGRP:Музика
+https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv2
+#EXTINF:-1,Первый музыкальный
+#EXTGRP:Музика
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1,Первый Музыкальный HD
+#EXTGRP:Музика
+http://hz1.teleport.cc/HLS/SD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx14KkcR/unnamed.png",1.FM - Absolute 90s
+#EXTGRP:Музика
+http://strm112.1.fm/90s_mobile_mp3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/d0/16/ca/d016cabd891769b4cd0b477dfb0dcddb.jpg",FM - 107.4
+#EXTGRP:Музика
+http://195.182.22.130:8000/Streamogg
+#EXTINF:-1,Львівська Хвиля
+#EXTGRP:Музика
+http://onair.lviv.fm:8000/lviv.fm
+#EXTINF:-1,Nashe Radio
+#EXTGRP:Музика
+http://online.nasheradio.ua/NasheRadio_HD
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Relaxon
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Камин
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Пейзаж
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch343/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Space Stream
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch314/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Про Факт
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch315/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Зоо
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch319/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Свет вокруг 
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch351/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Терраса
+#EXTGRP:Релакс
+https://iptv.prosto.tv/ch336/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Горная долина
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch302/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Просто Украина
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch303/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Дожди
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch304/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Подводный мир
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch305/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Avia Stream
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch306/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",ЭКО система
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch316/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Stream City
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch321/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Аквариум
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch325/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Комната релакс
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch328/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Зима
+#EXTGRP:Релакс
+https://iptv.prosto.tv/ch327/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Ночь
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch349/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Водопад
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch329/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Лес
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Огонь
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Пляж
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Тропики
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch335/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Река
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch338/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Джунгли
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch339/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Горы
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch340/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Озеро 
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch341/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Бассейн
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch345/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Флора
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch346/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Железная дорога
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch348/video.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Парк
+#EXTGRP:Релакс
+http://iptv.prosto.tv:7000/ch350/video.m3u8
+
+
+#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Babes TV
+#EXTGRP:XXX
+http://stream.mcquack.net/55/index.m3u8
+#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Exxxotica
+#EXTGRP:XXX
+http://stream.mcquack.net/57/index.m3u8
+#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Frenchlover
+#EXTGRP:XXX
+http://stream.mcquack.net/54/index.m3u8
+#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Erox
+#EXTGRP:XXX
+http://stream.mcquack.net/58/index.m3u8
+#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Blue Hustler
+#EXTGRP:XXX
+http://stream.mcquack.net/280/index.m3u8
+#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Vivid Red
+#EXTGRP:XXX
+http://stream.mcquack.net/284/index.m3u8
+#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Barely Legal TV
+#EXTGRP:XXX
+http://stream.mcquack.net/289/index.m3u8
+#EXTINF:-1 parent-code="1234"tvg-rec="7" timeshift="7",Playboy TV
+#EXTGRP:XXX
+http://stream.mcquack.net/290/index.m3u8
+
+#EXTINF:-1,Brazzers TV Europa
+#EXTGRP:XXX
+http://193.239.186.231/BRAZZERS/index.m3u8
+#EXTINF:-1,BRAZZERS
+#EXTGRP:XXX
+http://193.239.187.102/BRAZZERS/index.m3u8
+#EXTINF:-1,Porn Classic
+#EXTGRP:XXX
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+
+#EXTINF:-1 parent-code="1234",Babes TV
+#EXTGRP:XXX
+http://stream.mcquack.net/55/index.m3u8
+#EXTINF:-1 parent-code="1234",Exxxotica
+#EXTGRP:XXX
+http://stream.mcquack.net/57/index.m3u8
+#EXTINF:-1 parent-code="1234",Frenchlover
+#EXTGRP:XXX
+http://stream.mcquack.net/54/index.m3u8
+#EXTINF:-1 parent-code="1234",Erox
+#EXTGRP:XXX
+http://stream.mcquack.net/58/index.m3u8
+#EXTINF:-1 parent-code="1234",Blue Hustler
+#EXTGRP:XXX
+http://stream.mcquack.net/280/index.m3u8
+#EXTINF:-1 parent-code="1234",Vivid Red
+#EXTGRP:XXX
+http://stream.mcquack.net/284/index.m3u8
+#EXTINF:-1 parent-code="1234",Barely Legal TV
+#EXTGRP:XXX
+http://stream.mcquack.net/289/index.m3u8
+#EXTINF:-1 parent-code="1234",Playboy TV
+#EXTGRP:XXX
+http://stream.mcquack.net/290/index.m3u8
+
+#EXTINF:-1,Pornstar HD
+#EXTGRP:XXX
+http://cdn.adultiptv.net:80/playlist.m3u8
+#EXTINF:-1,Pornstar HD
+#EXTGRP:XXX
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1,Rough
+#EXTGRP:XXX
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1,Gangbang
+#EXTGRP:XXX
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1,Brunette
+#EXTGRP:XXX
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1,Blonde
+#EXTGRP:XXX
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1,Anal
+#EXTGRP:XXX
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1,Live Cams
+#EXTGRP:XXX
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1,Russian
+#EXTGRP:XXX
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1,Threesome
+#EXTGRP:XXX
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1,Hardcore
+#EXTGRP:XXX
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1,Teen
+#EXTGRP:XXX
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1,Blowjob
+#EXTGRP:XXX
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1,Latina
+#EXTGRP:XXX
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1,Big Ass
+#EXTGRP:XXX
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1,Big Tits
+#EXTGRP:XXX
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1,MILF
+#EXTGRP:XXX
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1,Pornstar
+#EXTGRP:XXX
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1,Lesbian
+#EXTGRP:XXX
+http://cdn.adultiptv.net/lesbian.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/21/2c/08/212c086a8c566741d5a5df2c488b5c4b.jpg",BCU Action HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/f4/ee/cc/f4eeccef8c8cc3ba18545ff9f9816152.jpg",BCU Кинозал Premiere 1 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=122b81e6c37b49a37c3b1984efaf5626371d5df5
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/77/77/9f/77779f79e72f50d95ef3bfd174bd0896.jpg",BCU Кинозал Premiere 2 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/bc/b3/a5/bcb3a595d67821ce184afac64aa7bc42.jpg",BCU Кинозал Premiere 3 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/03/c2/b3/03c2b32879acf300def40d0164c3fd3d.jpg",BCU TruMotion HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/03/c2/b3/03c2b32879acf300def40d0164c3fd3d.jpg",BCU Survival HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/03/c2/b3/03c2b32879acf300def40d0164c3fd3d.jpg",BCU Stars HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=05fe94b726e99b1dd548013bd281980f9f27b617
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/03/c2/b3/03c2b32879acf300def40d0164c3fd3d.jpg",BCU Reality HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=22da1ac893c3daf4035261c84e828c8020648187
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/03/c2/b3/03c2b32879acf300def40d0164c3fd3d.jpg",BCU Premiere HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=52b5bbf1d3a9640f8a186e848f021bfc3daf1154
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/81/91/5a/81915a153fb07d30978ccbd4c62e3ed3.jpg",BCU Marvel HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/83/26/f5/8326f5787a8a373121ed5beda94bc568.jpg",BCU Kinorating HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/29/ba/6f/29ba6f22d7c650c1446ec5d3be17677f.jpg",BCU History HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/9a/e8/d0/9ae8d0a6901056fd44f9ddb3011eadb3.jpg",BCU Filmystic HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/df/88/da/df88da216ad5a77c4aa1276ca96a62f4.jpg",BCU Fantastic HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/02/ec/e4/02ece4b14ef3e443a5e3d4e2f06a0422.jpg",BCU Criminal HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=ddb42884acd341255390cda62387b5a42d8c2180
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/b0/56/ad/b056ad49bc147aa4afb3c4c70db88996.jpg",BCU VHS HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=5752b846dab618e12a0a1541ad6573a81ae1265d
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/03/c2/b3/03c2b32879acf300def40d0164c3fd3d.jpg",BCU Cosmo HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/b4/34/24/b43424a585fcf5f95f07711cafb7145c.jpg",BCU Comedy HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/4e/64/1e/4e641e40bfa7f7d41bbaaf16c653bbdd.jpg",BCU Cinema+ HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b54a
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/b2/2d/c7/b22dc7b02cef5e46599dc692d634d5b4.jpg",BCU Cinema HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=ed699504c5010cab9046530306960e998a92f5e6
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/13/17/c9/1317c9a5b918675b21eeee8a3bc043c2.jpg",BCU Catastrophe HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=07d24566226c5851b9c3a3235e3451854d6baeac
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/b3/0e/7b/b30e7ba3604758c300a622e924014d8d.jpg",BCU Ultra 4K
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/03/c2/b3/03c2b32879acf300def40d0164c3fd3d.jpg",BCU Premiere Ultra 4K
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/03/c2/b3/03c2b32879acf300def40d0164c3fd3d.jpg",BCU Romantic HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/8a/73/ec/8a73ec2e09cb6b73ad62f5fca5c25671.jpg",BCU СССР HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=59623cb797c031a5aa4922eb219851547cb346b0
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/e5/e1/f9/e5e1f94485a70296ca22847203416af2.jpg",BCU Сваты HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/8a/73/ec/8a73ec2e09cb6b73ad62f5fca5c25671.jpg",BCU Russian HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=5e38456d774827e7312b7eabdde388532a3dfec9
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=00d0649880b17050d8a9ed559fc824f98fd578be
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan РуКино
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/d7/73/80/d773808c50ff5b6be45b8fd0bfa01a39.jpg",CineMan Top
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=21f0299cce733ec3a481135553de468440b3630f
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/73/8a/0d/738a0d87b9400179c3c5c564c5f785c4.jpg",viju+ Premiere HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cd/b3/49/cdb349f565cd469317fc51af5c454f5a.jpg",viju+ Megahit HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/cc/7a/e9/cc7ae953f85f072a364e3357e1a8439c.jpg",viju+ Comedy HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=8c7b8be6682d84e033352724243719378c3e1540
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/67/a4/88/67a488a187558eaf9615cb86c12a44fd.jpg",TV1000 Русское кино HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/2e/07/ae/2e07aed15d0093a7efc9a6a6006bfef4.jpg",TV1000 Action HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/ac/00/43/ac0043fbf71aab403077f38bef6f7656.jpg",TV1000 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=ae0d6d703ef80198263a1a868740cf059eac4e9e
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/52/df/bd/52dfbd91f60634c50d74437796c26840.jpg",viju+ Serial HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/fb/2e/a5/fb2ea55e8a3da99880f2dee9b5177e1b.jpg",Viasat Kino World
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/35/e5/7f/35e57f13ac85c1eaf4c6da6c34f46c81.jpg",Премиальное HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=4bf6e4511111ef5f8946c75ff85d3591a809f131
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/0c/8a/85/0c8a850fb1b2656035a414be97959489.jpg",Остросюжетное HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b8/af/14/b8af14803c94ffffce1432527ba5f05d.jpg",Блокбастер HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=6019512392cd7316a5362e275966779bf9011fee
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/18/9d/e4/189de428afa4cdb04d3ebd86bc170d62.jpg",КИНО ТВ HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=aeb66589dcdbf45061b76eb52ed29ea8297e8e21
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/4e/16/69/4e16693fa8227a359fc28fbb14142eed.jpg",Любимое кино
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=ed833df0a763fa26f180acac44634eb4c3918d86
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/06/df/24/06df24630bca4d71573cd254c7e956f2.jpg",Киноджем 1 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=6f59144864d644ee3f53fddef7db2c2f69255c2e
+#EXTINF:-1,Мужское кино HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=26491abeef0cc9d0646bb8de880fe73d5ca285af
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/6a/d9/75/6ad975109dc50f86b619b865f9e74fe9.jpg",Ultra HD Cinema
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/6a/d9/75/6ad975109dc50f86b619b865f9e74fe9.jpg",Russian Extreme HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/6a/d9/75/6ad975109dc50f86b619b865f9e74fe9.jpg",Russian Extreme Ultra HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/9e/6b/7e/9e6b7e30028f51dc5dfc3560daf7e5f4.jpg",Иллюзион+ HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/04/c0/2e/04c02e68d76fcfd8a491789dec546ba5.jpg",Хит HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d
+#EXTINF:-1 tvg-id="TV XXI" tvg-logo="https://i.pinimg.com/736x/7b/ed/3e/7bed3e61ec08ce608cb7c66fd032690c.jpg",ТВ 21 век
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=6af72b6047bed580ad57c036ce635dd93233abb6
+#EXTINF:-1,Еврокино
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=cda16e6d488958942dcd9cd96284c0910dc29cce
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/72/7c/c3/727cc3c2bdf4d9d63ec1d9cbe064b00c.jpg",Hollywood HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/8c/52/35/8c5235c0a739f6fd442539798bc24c73.jpg",.sci-fi
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/72/7c/c3/727cc3c2bdf4d9d63ec1d9cbe064b00c.jpg",.black
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/62/5f/db/625fdbc19616fe984a92bb8983ccaf0b.jpg",Комедийное HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=322a734d2e4f99121e09df9f4831a7edf3d55f2c
+#EXTINF:-1,Кинохит HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=f1fe45c8d5f58301c74dde7acaf4db13e497b586
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/64/22/e8/6422e8e584bcf80d5e5f5afdf6400d9c.jpg",КИНОСЕРИЯ HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd
+#EXTINF:-1,Киносемья HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952
+#EXTINF:-1,КИНОСВИДАНИЕ HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde
+#EXTINF:-1,Кинопремьера HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6
+#EXTINF:-1,Киномикс HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=3dba401ca5f2508ddfa955333e233d40d7f3572e
+#EXTINF:-1,Кинокомедия HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/1d/b5/6a/1db56a08c1e1d202d020e04f50331ac1.jpg",Камеди HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0
+
+#EXTINF:-1,Русский Детектив
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36
+#EXTINF:-1,Русский Бестселлер
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/3b/00/59/3b0059e0fbaf8be5bf6e51e83e0f2759.jpg",Русская комедия
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c
+#EXTINF:-1,Русский иллюзион
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1
+#EXTINF:-1,Феникс плюс Кино
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6
+#EXTINF:-1,ТВ3 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b
+#EXTINF:-1,СТС HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/d1/69/3c/d1693cd0c16e0137a97a3a0b40c6926a.jpg",Наше Мужское HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=646e1bd5cccfef3d0926eee34eb3fd7e01430507
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/64/e3/18/64e318c0bff5a221c1d0b6fef330803b.jpg",Наше любимое HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/8e/af/dc/8eafdced35d9a61b6849748d1fc3a2ec.jpg",Наше крутое HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=4f40b12ad32618adf3262143db8cc80ae686a5f0
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c0/3d/7f/c03d7f47bd75f84fe6228d1c54c460b4.jpg",Наш Кинопоказ HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed
+#EXTINF:-1,Родное кино
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=b46c879a624e1d0aa8eeb18300cda7413657e80a
+#EXTINF:-1,Наше новое кино HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e
+#EXTINF:-1,Домашний HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057c
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/5e/f9/d7/5ef9d735525ee0fc6880ca4ae31335e5.jpg",СЕРИАЛ UHD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/98/bb/ff/98bbffb61a65039874849643f516da62.jpg",Дом кино премиум HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=c2877f4320f2029a59f2121525280c539fb1b9e9
+#EXTINF:-1,Дом кино
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=4403739564a9b19055786e9844ea48147b3f930b
+#EXTINF:-1,ТНТ4 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845
+#EXTINF:-1,ТНТ HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b
+#EXTINF:-1,РЕН ТВ
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=5d2b34377ff010af21f777600c6be77d4479f2eb
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/de/ea/34/deea340f1f4e3a4d7cab7d86938e16f9.jpg",Рен ТВ International
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=881ffab7e64f437d16d2ca4474c291a4a1111bd2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/92/07/5e/92075ebef35b22e237f79ed8b21b5b0b.jpg",НТВ ХИТ
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/92/07/5e/92075ebef35b22e237f79ed8b21b5b0b.jpg",НТВ Сериал
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/62/fc/4f/62fc4fc7f08b099abca5c198565806ac.jpg",Романтичное HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/da/da/8e/dada8ea6912804abe57af14816736055.jpg",Про Любовь HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=300552f346d9fe2dfd405f48fbafe084a95da563
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/f2/2e/59/f22e59e99e43ce6fe83dcc41a5382df7.jpg",Душевное HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=82cc7621069b4095f002b43a669b40c2b5342afc
+#EXTINF:-1,Дорама HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/c6/a9/24/c6a92448b7722241b9a7daf2e3cdfd4c.jpg",Кинеко HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=6c6849a17243f967d0c6f04323af9dfde161c3f2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/f5/c6/00/f5c6002a80c554e6174c93ba078669c8.jpg",Bollywood HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/68/b1/f7/68b1f7fdad0c4250e1c78e93b7694b0c.jpg",Paramount Channel HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=a106bfefca51175ca4c7a73d7acfe78b7ece709e
+#EXTINF:-1,Paramount Comedy
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=5680521f0e507f2c6f55f3de8dd79351615116c5
+
+#EXTINF:-1,Fox Life HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526
+#EXTINF:-1,Fox
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e
+#EXTINF:-1,Amedia premium HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2
+#EXTINF:-1,Amedia Hit HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8
+#EXTINF:-1,Amedia 1 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82
+#EXTINF:-1,Amedia 2 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac
+
+#EXTINF:-1,НСТ
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=038d0b88c99d988b0b91af57ef142f563a90d200
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/a9/c6/e7/a9c6e72bc8038c4fee16148af6df7d3c.jpg",Киноужас HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/46/fd/0c/46fd0cc2297cc8965638686c681c6c33.jpg",Страшное HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/8e/1a/d9/8e1ad97c26a59c41097bde5a52a3cae0.jpg",Шокирующее HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700
+
+#EXTINF:-1,Ностальгия
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bc/30/87/bc30877f3ffe7088bdbe41cd2becba27.jpg",Мосфильм. Золотая коллекция HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d
+
+#EXTINF:-1,Animal Planet HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
+#EXTINF:-1,Viju+ Planet
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a
+#EXTINF:-1,Viasat Nature HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda
+#EXTINF:-1,Viasat History HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab
+#EXTINF:-1,Viasat Explore HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636
+#EXTINF:-1,History HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63
+#EXTINF:-1,H2 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee
+#EXTINF:-1,National Geographic HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0
+#EXTINF:-1,Nat Geo Wild HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a
+#EXTINF:-1,Nat Geo Wild
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=b2fe281859c9bd201fd07234693f0fe360b0b339
+#EXTINF:-1,Discovery HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771
+#EXTINF:-1,Моя планета HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=bc956bc36a6384474f1b613638c79291e0ee3c14
+#EXTINF:-1,Мир Вокруг HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613
+#EXTINF:-1,Первый космический HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f
+#EXTINF:-1,Дикая рыбалка HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0
+#EXTINF:-1,Дикая охота HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=cd421b221ef7bae31a599542cd9c061fc66b30aa
+#EXTINF:-1,Дикий
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=c60f8614f11e0f11338e25567a92f5fb84eb4832
+#EXTINF:-1,Travel Channel HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2
+#EXTINF:-1,Travel+Adventure HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9
+#EXTINF:-1,Приключения HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283
+#EXTINF:-1,Диалоги о рыбалке HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0
+#EXTINF:-1,Глазами туриста HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83
+#EXTINF:-1,Охотник и Рыболов HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef
+#EXTINF:-1,В мире животных HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c
+#EXTINF:-1,Наша Сибирь
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=a0cc34324dd130db6145fbfd5e4824ab4393a12a
+#EXTINF:-1,Наша сибирь 4K
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
+#EXTINF:-1,Love Nature 4K
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757
+#EXTINF:-1,Insight UHD 4K
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68
+#EXTINF:-1 tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=73fd61f250e7ef7614feb38bfa7d8a8d38d2f20c
+#EXTINF:-1,Живая планета
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549
+#EXTINF:-1,Наука 2.0
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=07b0f15c3571584ecee786e2b05bec75a6b4485b
+#EXTINF:-1,Нано ТВ
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d
+#EXTINF:-1,Da Vinci
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14
+#EXTINF:-1,Авто Плюс
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=c3ff9e5243014a19c3cee52159d68fd750eeecb9
+#EXTINF:-1,Авто 24
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=7e515477cf191b1e4e33c7151c7cf84925f16780
+
+#EXTINF:-1,VIVA HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=aaf3060a96b04f621643e031eb61137722981595
+#EXTINF:-1,Bridge HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=32c2ea9b766da382ee892dae57871b3dd1e8641b
+#EXTINF:-1,Bridge TV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=e4cd583c183e449d129727c969355e7e9b7d3792
+#EXTINF:-1,Bridge TV Русский Хит
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=eb3add8d104fa237e14343f3236a932595023c9a
+#EXTINF:-1,Шансон ТВ
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=71506b08243e6b12e0e6e69c8582622a38009637
+#EXTINF:-1,ТНТ Music
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=347126177d806d4578b249807200e71db6470b63
+#EXTINF:-1,Музыка Первого
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=4f2d81ed73736cf3adc44c8a6a24cda47fc1eef0
+#EXTINF:-1,DELUXE MUSIC HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=da8c0764bea30d7fe2321383292bb33ff04a5ede
+#EXTINF:-1,МузТВ
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=38cf205218182050f0df6c7d8321e5e651286e91
+#EXTINF:-1,Ля-минор
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22
+#EXTINF:-1,1HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a
+#EXTINF:-1,RU.TV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=2302f4b9327232b91a434658c24a506c88bc55f0
+#EXTINF:-1,Russian MusicBox HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=a5149234466b95643eec346ffbd24bc71c64e3d6
+#EXTINF:-1,MTV Live HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=d8dde4a3b7964a19f144c5ac4c516933831ce782
+#EXTINF:-1,MTV 90s
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=6de86153b53f8abcc16f56b479f26e79f7bf77bf
+#EXTINF:-1,iConcerts
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=f0757d4131090cf4b0652e9a427c350c651e597a
+#EXTINF:-1,Europa Plus TV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=755483260c00e095f825286bc8b3562966814022
+#EXTINF:-1,Мультимузыка
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19
+
+#EXTINF:-1,BCU Kids+ HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a
+#EXTINF:-1,BCU Kids HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=535b288408b7c671bb1d5c292dd64beadf556ab9
+#EXTINF:-1,BCU Мультсериал
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964
+#EXTINF:-1,BCU Kids 4K
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293
+#EXTINF:-1,Мультиландия
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb
+#EXTINF:-1,Карусель
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=c008e67929d47855b43f7a9af7305a6c32504132
+#EXTINF:-1,СуперГерои
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e
+#EXTINF:-1,Cartoon Network
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=6578fed493fdf327038e74d9d967888d3dbb9c2d
+#EXTINF:-1,Уникум
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee
+#EXTINF:-1,Gulli Girl
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=be2e64fec17ec07a561dbd87cad2ae0fc4b7df5a
+#EXTINF:-1,Boomerang
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5
+#EXTINF:-1,Капитан Фантастика HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=5bfc90fb33d6046da53943364b3d68d0e19e4464
+#EXTINF:-1,Мульт HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=83392085bd6971ff98e8884913a51c3313126f7f
+#EXTINF:-1,В гостях у сказки
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0
+#EXTINF:-1,О!
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=f629f91eaeee18118080c0211516469495af04f2
+#EXTINF:-1,TiJi
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=4da0f57fb96330c7f6ad5f4bce0ba93038b628c3
+#EXTINF:-1,Ani
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=9eb31bd34245c4bbe60f0fe6081f854b7d1dde52
+#EXTINF:-1,FAN
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2
+#EXTINF:-1,СОЛНЦЕ
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=a257179a41c0f69411ed7fe86260fe7cc5c823f3
+
+#EXTINF:-1,Конный мир HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017
+#EXTINF:-1,КХЛ ТВ
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
+#EXTINF:-1,KHL Prime HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
+#EXTINF:-1,VIASAT SPORT HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1,Футбольный HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
+#EXTINF:-1,Хоккейный HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857
+#EXTINF:-1,Спортивный
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3
+#EXTINF:-1,Футбол HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
+#EXTINF:-1,FightBox HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
+#EXTINF:-1,Бокс ТВ
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d
+#EXTINF:-1,Extreme Sports
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082
+#EXTINF:-1,Eurosport 1 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1,Eurosport 2 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
+#EXTINF:-1,UFC HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
+#EXTINF:-1,MMA-TV.COM
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=f562d8a45a5475599fbd2ad18886b0cc847f75e4
+#EXTINF:-1,Старт
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
+#EXTINF:-1,Мир Баскетбола
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570
+#EXTINF:-1,Матч! Футбол 1 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1,Матч! Футбол 2 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1,Матч! Футбол 3 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1,Матч ТВ HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1,Матч! Страна
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
+#EXTINF:-1,Матч! Премьер HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1,МАТЧ! Планета
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af
+#EXTINF:-1,Матч! Игра HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
+#EXTINF:-1,Матч! Боец HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
+#EXTINF:-1,Матч! Арена HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1,Setanta Sports 1 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1,Setanta Sports 2 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1,Setanta Sports 3 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=04759f636ad9c8dc35b5eb560d393eab3e2a6f30
+#EXTINF:-1,SKY Bundesliga UHD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390
+#EXTINF:-1,NBA TV HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=42832fbf9a1d3bdcca043e09951d6769fbbe04e7
+#EXTINF:-1,Dubai One
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=43bfa03755428b42fedf2f88bf8a3879add9907a
+#EXTINF:-1,Dubai Racing
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=9e23be4424f849f061b57d86491a06bdbf5c30d3
+#EXTINF:-1,Dubai Racing 2
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=70cfa52fb2a6b9f37d3cde22e7dda2c80efc6a1c
+#EXTINF:-1,Dubai Racing 3
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=f6927bae7a816d9a3c200e63df032c09671b971f
+#EXTINF:-1,Dubai Sports 2
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=7f5dc2a858b5972598f10c843b28c73597801a96
+#EXTINF:-1,Dubai Sports 3
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=07a3a89922fcd3679c5178f2616ec565a75ecb06
+#EXTINF:-1,Dubai Zaman
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=4750d185565938b65e8607133b7abdfeb4c7c8cd
+#EXTINF:-1,Insport HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=b7e8c3bae5d98a4f842f334ff57604de9886f5c7
+#EXTINF:-1,Eleven Sports 1 HD PL
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1,Eleven Sports 2 HD PL
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1,Eleven Sports 3 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1,Eleven Sports 4 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1,Eleven Sports 5 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1,Eleven Sports 6 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1,beIN SPORTS HABER
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3
+#EXTINF:-1,beIN SPORTS HD 1
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
+#EXTINF:-1,beIN SPORTS HD 2
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
+#EXTINF:-1,beIN SPORTS HD 4
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+#EXTINF:-1,BT Sport 1
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1,BT Sport 2
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1,BT Sport 3
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1,FOX Sports 1 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1,FOX Sports 2 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3129.png",Canal+ Sport HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2900.png",CANAL+ Sport 2 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
+#EXTINF:-1,CANAL+ Sport 3
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
+#EXTINF:-1,CANAL+ Sport 4
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=04448c3ca0b7518819491e468adbabc8a2551bd7
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4557.png",POLSAT SPORT FIGHT HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4550.png",POLSAT SPORT PREMIUM 1 PL
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4551.png",POLSAT SPORT PREMIUM 2 PL
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1,Dazn 1 Bar HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1,Dazn 2 Bar HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE UK
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=b81a8e83ac842cf7e06b33c999002571ca1861b3
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4572.png",SKY SPORTS ARENA UK
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4577.png",SKY SPORTS CRICKET UK
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4570.png",SKY SPORTS FOOTBALL UK
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4571.png",SKY SPORTS MAIN EVENT UK
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4571.png",Sky Sport F1 FHD DE
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442eeea9cd9d4b2&mp4
+#EXTINF:-1,AMAZON PRIME VIDEO 1 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=5323ccadb659f7d3cb5fa2e5835c5af362e144d6
+#EXTINF:-1,AMAZON PRIME VIDEO 2 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=2926e34c63d83764f9c6671da53397d55041b4ea
+#EXTINF:-1,AMAZON PRIME VIDEO 3 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c
+#EXTINF:-1,AMAZON PRIME VIDEO 4 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=77697d1e2f382196dd156ed384e84c62fc7d32f7
+#EXTINF:-1,AMAZON PRIME VIDEO 5 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=d3634268718c6e52cde4a34d0e75cffef26c1ba9
+#EXTINF:-1,AMAZON PRIME VIDEO 6 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=26e31f091414fb036917a255b4adaf12b2f3da5b
+#EXTINF:-1,AMAZON PRIME VIDEO 7 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=160b4b508a11f8c8b5c6e0e62ac04a437e00bb67
+#EXTINF:-1,AMAZON PRIME VIDEO 8 HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=3a21b411e9b764efefc0c2166ca07f4655b3d31c
+#EXTINF:-1,Ziggo Sport Tennis
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=035e34b791335962ca817f42fd14300382af3797
+#EXTINF:-1,Ziggo Sport Racing
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
+#EXTINF:-1,Ziggo Sport Select
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+#EXTINF:-1,Ziggo Sport Voetbal
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
+#EXTINF:-1,[magenta] Sport 1 - myTeamTV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=1d08eb70e51005f6b52c07c69cbe7ad8b515d174
+#EXTINF:-1,[magenta] Sport 2 - myTeamTV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=0b8dd14fae3fd9f6b4adcec6c26f53490c4c52a6
+#EXTINF:-1,[magenta] Sport 3 - myTeamTV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=eb9ef8cfb7193b087f66c2072ad97d36cd266a9d
+#EXTINF:-1,[magenta] Sport 4 - myTeamTV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=bf65ee0790793f4f773c39b6fde8fdbe3fbb9465
+#EXTINF:-1,[magenta] Sport 5 - myTeamTV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=92d464a26a857d119c098eefac43bfb25e6e5f1a
+#EXTINF:-1,[magenta] Sport 6 - myTeamTV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=c7da2bedd584836e3eab3199939e471e5dcae8fc
+#EXTINF:-1,[magenta] Sport 7 - myTeamTV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=8c54e949d608a0f154a36ad0ff9a9a3397a40a4a
+#EXTINF:-1,[magenta] Sport 8 - myTeamTV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=6d2d997aea908ffc6c61b43b5053f65c3b02f4df
+#EXTINF:-1,[magenta] Sport 9 - myTeamTV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=ce9dfe7efa2fd304947f8b57554a524479b4de9e
+#EXTINF:-1,[magenta] Sport 10 - myTeamTV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750481ac
+#EXTINF:-1,[magenta] Sport 11 - myTeamTV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
+
+#EXTINF:-1, Adult IPTV Big Ass
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=dc7473fb548c7d488fa0b0b53df0b5147a717aa2
+#EXTINF:-1, Adult IPTV Big Dick
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=3ef1d4dbd0c7bf49f284258fb5b4deab437ee622
+#EXTINF:-1, Adult IPTV Big Tits
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=666a4ef524802668e9adf75b28a6f547f56147bf
+#EXTINF:-1, Adult IPTV Blonde
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=5e96e89864c6cbfef5cea4aafc3f0d433795b099
+#EXTINF:-1, Adult IPTV Blowjob
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=27dd2dc42643b48fe3af8be4f5f8d7b39418ff52
+#EXTINF:-1, Adult IPTV Brunette
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=b651f83b15c3c38616f7f311906a7dc5fa778a4c
+#EXTINF:-1, Adult IPTV Compilation
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=e6193676b5d6e215306f2aa3dc7d5c72e658a539
+#EXTINF:-1, Adult IPTV Cuckold
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=062bccf6aeb3022c2dd3584e6f47493035357241
+#EXTINF:-1, Adult IPTV Gangbang
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=4944f29a57b62f1a9119d5420b199966f66c8307
+#EXTINF:-1, Adult IPTV Hardcore
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=75dddd3e9b8c73f9cbe6329e611be3f2dc546429
+#EXTINF:-1, Adult IPTV Interracial
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=d4adea01e43b1a27da8fb05a12237db4add03c99
+#EXTINF:-1, Adult IPTV Latina
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=f178860f7da3b211d803ee50e8d8e5a5cd8048bc
+#EXTINF:-1, Adult IPTV Lesbian
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=9b21004a17469fa94c5b46bbdc17c6c812dd7f79
+#EXTINF:-1, Adult IPTV Livecams
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=05315bda1c153053c6d679742567ae605c45a78c
+#EXTINF:-1, Adult IPTV MILF
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=47a76328ec846ff278f7f87093156b0dbfeb5aeb
+#EXTINF:-1, Adult IPTV Pornstar
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=55a3af97b5ee2425dc83511909974be1604506ff
+#EXTINF:-1, Adult IPTV POV
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=cb881e3119533be1bad9dd6f2ccfebc75ab5ebb8
+#EXTINF:-1, Adult IPTV Russian
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=f25f0741b194a4a17297b8980ecefea16a020ab1
+#EXTINF:-1, Adult IPTV Teen
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=61e65c856a5a56a84b97de35771af2f068928806
+#EXTINF:-1, Adult IPTV Threesome
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=fb96921d04d2e69fabe57e89955c76ce2130caf3
+#EXTINF:-1, AdultIPTV.net Asian (720p)
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=3ca9c714133bb360a35ad04193b15af2194c9e1a
+#EXTINF:-1, AdultIPTV.net Hardcore (720p)
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=4cfddb06f9e8d8c349606fc563b539475db932a7
+#EXTINF:-1, AdultIPTV.net Latina (720p)
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=1b3845257b095a58178bf8f9095caf849dd22fcd
+#EXTINF:-1, AdultIPTV.net Lesbian (720p)
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=47f1c6741c1b9bc6b1a5eb45701d46b79b73fe10
+#EXTINF:-1, AdultIPTV.net Live Cams (720p)
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=20d85dbb4535c4f8414cc906924d768b3267916f
+#EXTINF:-1, AdultIPTV.net POV (720p)
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=bc2fb3191fb96eef1a5f7c0e68ba57e05976cd6c
+#EXTINF:-1, AdultIPTV.net Teen (720p)
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=912940b0b055df9dd55c7319f37f8d4967c8f7a6
+
+#EXTINF:-1, RedTraffic Big Ass HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=dee7516a4509bde2906e28485e98f88e17c6fdee
+#EXTINF:-1, RedTraffic Big Tits HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=d02b8e98df4584067c9cae9f75b5582eeacfe7d8
+#EXTINF:-1, RedTraffic Blowjob HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=4ecc030469d5b456dc9e333f3610c1b2b4e272a4
+#EXTINF:-1, RedTraffic Cuckold HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=b4e181e30b3d6a45440fdce7bf39897071cf5e0c
+#EXTINF:-1, RedTraffic Hardcore
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=8814b9eef195eb50da285bf6ae8f053b70eb8da3
+#EXTINF:-1, RedTraffic Interracial HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=e1324091544c0f61d4e11f33d6fbbf3db5ca5ff3
+#EXTINF:-1, RedTraffic Latina HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=713ac380cf0dc0a2fdd4022fa8a711c71319bfde
+#EXTINF:-1, RedTraffic Lesbian HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=e809d53ce9fbd5190505ee4447d1717e6ea7a645
+#EXTINF:-1, RedTraffic MILF HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=312b0be61b781b07dfc1ccf1e24e0c7f91a020e6
+#EXTINF:-1, RedTraffic Pornstar HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=f4d6862e0025ef86533169f7aa316960f6daecd4
+#EXTINF:-1, RedTraffic POV HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=d96e298409de1ccd7a5d02224e76e450ea82ca3f
+#EXTINF:-1, RedTraffic Teen HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=1f406cf24ce37028f20a3d0d3bbd7332eb21d15c
+#EXTINF:-1, RedTraffic Threesome HD
+#EXTGRP:Торрент ТВ (Ace Player)
+http://127.0.0.1:6878/ace/getstream?infohash=68fd2ef76adae489e3d51a1f6f4b85931a8965db
+#EXT-X-ENDLIST
+
